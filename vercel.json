@@ -13,10 +13,7 @@
     "env": {
       "NPM_FLAGS": "--legacy-peer-deps"
     }
-  },
-  "scripts": {
-    "build": "npx nuxi generate"
-  },
+  },  
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }
   ]
