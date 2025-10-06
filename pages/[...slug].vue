@@ -41,7 +41,6 @@
         <Alert
           v-if="page?.body?.children?.length === 0"
           icon="lucide:circle-x"
-
           :title="$t('Empty page')"
         >
           <i18n-t keypath="Start writing content">

@@ -41,49 +41,42 @@ export default defineAppConfig({
       },
       nav: [
         {
+          title: 'Accounting',
+          to: '/comfortaccounting',
+          target: '_self',
+          showLinkIcon: false,
+        },
+        {
           title: 'Events',
           to: '/comfortevents',
           target: '_self',
           showLinkIcon: false,
         },
-        {
+        /**{
           title: 'Docs',
           links: [
-          // {
-          //   title: 'Events',
-          //   to: '/comfortevents',
-          //   description: 'Start building your document with shadcn-docs-nuxt',
-          //   icon: 'lucide:rocket',
-          // },
-          // {
-          //   title: 'Invoice',
-          //   to: '/comfortinvoice',
-          //   description: 'Explore available UI components and usage examples.',
-          //   icon: 'lucide:box',
-          // },
-
-            // {
-            //   title: 'Getting Started',
-            //   to: '/getting-started',
-            //   description: 'Start building your document with shadcn-docs-nuxt',
-            //   icon: 'lucide:rocket',
-            // },
-            // {
-            //   title: 'Components',
-            //   to: '/components/prose',
-            //   description: 'Explore available UI components and usage examples.',
-            //   icon: 'lucide:box',
-            // },
-            // {
-            //   title: 'API',
-            //   to: '/api/configuration/shadcn-docs',
-            //   description: 'Discover the configurations and exposed APIs.',
-            //   target: '_self',
-            //   icon: 'lucide:code',
-            // },
+            {
+              title: 'Getting Started',
+              to: '/getting-started',
+              description: 'Start building your document with shadcn-docs-nuxt',
+              icon: 'lucide:rocket',
+            },
+            {
+              title: 'Components',
+              to: '/components/prose',
+              description: 'Explore available UI components and usage examples.',
+              icon: 'lucide:box',
+            },
+            {
+              title: 'API',
+              to: '/api/configuration/shadcn-docs',
+              description: 'Discover the configurations and exposed APIs.',
+              target: '_self',
+              icon: 'lucide:code',
+            },
           ],
-        },
-        {
+        },*/
+        /**{
           title: 'Credits',
           links: [{
             title: 'shadcn-ui',
@@ -106,13 +99,13 @@ export default defineAppConfig({
             description: 'Content made easy for Vue Developers',
             target: '_blank',
           }],
-        },
-        {
+        },*/
+        /**{
           title: 'Blog',
           to: '/blog',
           target: '_self',
           showLinkIcon: false,
-        },
+        },*/
       ],
       links: [
         {
@@ -134,10 +127,71 @@ export default defineAppConfig({
       collapseLevel: 1,
       folderStyle: 'default',
     },
+    // Add sidebar configuration directly here
+    sidebar: {
+      '/comfortaccounting': [
+        {
+          text: 'Comfort Accounting',
+          collapsible: false,
+          items: [
+            {
+              text: 'Overview',
+              link: '/comfortaccounting'
+            },
+          ],
+        },
+        {
+          text: 'Getting Started',
+          collapsible: true,
+          items: [
+            {text: 'How to install', link: '/comfortaccounting/how-to-install'},
+            {text: 'How to Translate', link: '/comfortaccounting/how-to-translate'},
+            {text: 'Template Override', link: '/comfortaccounting/template-override'},
+            {text: 'Hooks and Filters', link: '/comfortaccounting/hooks-and-filters'},
+            {text: 'Code Samples', link: '/comfortaccounting/code-samples'},
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            {text: 'General', link: '/comfortaccounting/user-guide/general'},
+            {text: 'Dashboard', link: '/comfortaccounting/user-guide/dashboard'},
+            {text: 'Agency Manager', link: '/comfortaccounting/user-guide/agency-manager'},
+            {text: 'Account Manager', link: '/comfortaccounting/user-guide/account-manager'},
+            {text: 'Category Manager', link: '/comfortaccounting/user-guide/category-manager'},
+            {text: 'VC Manager', link: '/comfortaccounting/user-guide/vc-manager'},
+            {text: 'Log Manager', link: '/comfortaccounting/user-guide/log-manager'},
+            {text: 'Reports Manager (Pro)', link: '/comfortaccounting/user-guide/reports-manager'},
+            {text: 'Settings Manager', link: '/comfortaccounting/user-guide/settings-manager'},
+            {text: 'Tools Manager', link: '/comfortaccounting/user-guide/tools-manager'},
+            {text: 'Emails Manager', link: '/comfortaccounting/user-guide/emails-manager'},
+            {text: 'Helps & Updates', link: '/comfortaccounting/user-guide/helps-updates'},
+            {text: 'Integrations', link: '/comfortaccounting/user-guide/integrations'},
+          ],
+        },
+        {
+          text: 'Shortcode',
+          collapsible: true,
+          items: [
+            {text: '7 Shortcodes', link: '/comfortaccounting/shortcodes'},
+          ],
+        },
+        {
+          text: 'Widgets',
+          collapsible: true,
+          items: [
+            {text: 'Classic Widgets', link: '/comfortaccounting/classic-widgets'},
+            {text: 'Elementor Widget', link: '/comfortaccounting/elementor-widgets'},
+            {text: 'Gutenberg Blocks', link: '/comfortaccounting/gutenberg-blocks'},
+          ],
+        },
+      ],
+    },
     main: {
       padded: true,
       breadCrumb: true,
-      showTitle: true,
+      showTitle: false, // true to show title, description from page
       codeCopyToast: false,
       codeCopyIcon: 'lucide:clipboard',
       editLink: {
