@@ -5,12 +5,6 @@ import tailwindcss from '@tailwindcss/vite';
 const currentDir = dirname(fileURLToPath(import.meta.url));
 
 export default defineNuxtConfig({
-  nitro: {
-    preset: 'static',
-    prerender: {
-      routes: ['/'], // add all static routes you want pre-rendered
-    },
-  },
   ssr: true,
   devtools: { enabled: true },
   modules: [
