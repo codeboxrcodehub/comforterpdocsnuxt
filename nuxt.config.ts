@@ -4,13 +4,11 @@ import tailwindcss from '@tailwindcss/vite';
 
 const currentDir = dirname(fileURLToPath(import.meta.url));
 
+//const base = process.env.NUXT_APP_BASE_URL || '/comforterpdocsnuxt/';
+
 export default defineNuxtConfig({
     nitro: {
-        preset: 'static',
-        prerender: {
-            crawlLinks: false,
-            routes: ['/', '/docs/getting-started', '/about']
-        }
+        preset: 'github-pages',
     },
     ssr: true,
     devtools: {enabled: true},

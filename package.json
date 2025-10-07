@@ -39,7 +39,8 @@
   "scripts": {
     "build": "nuxt prepare && nuxt build www",
     "dev": "nuxt prepare && nuxt dev www",
-    "generate": "nuxt prepare && nuxt generate www",
+    "generate2": "nuxt prepare && nuxt generate www",
+    "generate": "NUXT_APP_BASE_URL=/comforterpdocsnuxt/ nuxt generate --preset github_pages",
     "preview": "nuxt prepare && nuxt preview www",
     "typecheck": "nuxt prepare && nuxt typecheck",
     "lint": "eslint .",
