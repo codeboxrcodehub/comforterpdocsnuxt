@@ -29,8 +29,8 @@ export default defineAppConfig({
       title: 'shadcn-docs',
       showTitle: true,
       logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        light: '/logo.png',
+        dark: '/logo.png',
       },
       border: false,
       darkModeToggle: true,
