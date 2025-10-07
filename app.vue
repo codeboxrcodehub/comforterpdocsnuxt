@@ -22,7 +22,7 @@
         ]"
       >
         <!--<LayoutAside :is-mobile="false" />-->
-        <LayoutCustomAside :is-mobile="false" />
+        <LayoutCustomAside :is-mobile="false" /> <!--this custom aside works with sidebar array-->
       </aside>
       <NuxtPage />
     </div>
