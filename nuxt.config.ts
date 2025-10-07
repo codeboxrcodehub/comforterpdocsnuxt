@@ -48,7 +48,8 @@ export default defineNuxtConfig({
     },
     css: [
         join(currentDir, './assets/css/themes.css'),
-        '~/assets/css/tailwind.css',
+        //~/assets/css/tailwind.css',
+        join(currentDir, './assets/css/tailwind.css'),
     ],
     content: {
         documentDriven: true,
