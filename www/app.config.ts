@@ -132,13 +132,6 @@ export default defineAppConfig({
       '/comfortaccounting': [
         {
           text: 'Comfort Accounting',
-          collapsible: false,
-          items: [
-            {
-              text: 'Overview',
-              link: '/comfortaccounting',
-            },
-          ],
         },
         {
           text: 'Getting Started',

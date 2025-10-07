@@ -67,6 +67,23 @@ interface DefaultConfig {
     collapseLevel: number;
     folderStyle: 'default' | 'tree' | 'group';
   };
+  sidebar: {
+    [path: string]: Array<{
+      text: string;
+      link?: string;
+      collapsible?: boolean;
+      collapsed?: boolean;
+      items?: Array<{
+        text: string;
+        link: string;
+        collapsible?: boolean;
+        items?: Array<{
+          text: string;
+          link: string;
+        }>;
+      }>;
+    }>;
+  };
   main: {
     breadCrumb: boolean;
     showTitle: boolean;
