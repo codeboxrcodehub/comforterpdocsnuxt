@@ -24,12 +24,8 @@ actions:
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+Comfort ERP
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
-::
-
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+Documentation for Comfort ERP plugins
 ::
