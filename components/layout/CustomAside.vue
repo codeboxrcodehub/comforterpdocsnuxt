@@ -45,7 +45,7 @@ const appConfig = useAppConfig();
 
 const sidebarItems = computed(() => {
   const path = route.path;
-  const sidebarConfig = appConfig.shadcnDocs.sidebar || {};
+  const sidebarConfig = appConfig.shadcnDocs?.sidebar || {};
 
   // Find which config section matches the current route
   const key = Object.keys(sidebarConfig).find((k) => path.startsWith(k));
