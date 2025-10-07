@@ -7,8 +7,8 @@
       <LayoutBackToTop />
     </div>
 
-    <!-- <LayoutPrevNext /> -->
-    <LayoutCustomPrevNext />
+    <LayoutPrevNext />
+    <!--<LayoutCustomPrevNext />-->
 
     <div class="flex">
       <LayoutCarbonAds v-if="!isDesktop && carbonAdsEnabled" class="mx-auto" />
