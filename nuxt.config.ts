@@ -9,6 +9,7 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 export default defineNuxtConfig({
     nitro: {
         preset: 'github-pages',
+        //preset: 'static',
     },
     ssr: true,
     devtools: {enabled: true},
