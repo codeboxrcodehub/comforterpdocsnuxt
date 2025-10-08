@@ -11,6 +11,10 @@ export default defineNuxtConfig({
         preset: 'github-pages',
         //preset: 'static',
     },
+    app: {
+        //baseURL: '/comforterpdocsnuxt/'
+        baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
+    },
     ssr: true,
     devtools: {enabled: true},
     modules: [
