@@ -1,10 +1,10 @@
 export default defineAppConfig({
-  shadcnDocs: {
+  comfortErpDocs: {
     site: {
-      name: 'shadcn-docs',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'comforterp-docs',
+      description: 'Comfort ERP Documentation',
       ogImage: '/hero.png',
-      ogImageComponent: 'ShadcnDocs',
+      ogImageComponent: 'ComfortErpDocs',
       ogImageColor: 'light',
       umami: {
         enable: true,
@@ -20,13 +20,13 @@ export default defineAppConfig({
     banner: {
       enable: false,
       showClose: true,
-      content: 'Welcome to **shadcn-docs-nuxt**',
-      to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+      content: 'Welcome to **Comfort ERP Docs**',
+      to: '#',
       target: '_blank',
       border: true,
     },
     header: {
-      title: 'shadcn-docs',
+      title: 'comforterp-docs',
       showTitle: true,
       logo: {
         light: '/logo.png',
@@ -68,12 +68,12 @@ export default defineAppConfig({
       links: [
         {
           icon: 'lucide:coffee',
-          to: 'https://ko-fi.com/ztl_uwu',
+          to: '#',
           target: '_blank',
         },
         {
           icon: 'lucide:github',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+          to: '#',
           target: '_blank',
         },
       ],
@@ -347,7 +347,7 @@ export default defineAppConfig({
         },
         {
           icon: 'lucide:github',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+          to: '#',
           target: '_blank',
         },
       ],
@@ -361,14 +361,14 @@ export default defineAppConfig({
         {
           title: 'Star on GitHub',
           icon: 'lucide:star',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+          to: '#',
           target: '_blank',
           showLinkIcon: true,
         },
         {
           title: 'Create Issues',
           icon: 'lucide:circle-dot',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
+          to: '#',
           target: '_blank',
           showLinkIcon: true,
         },
@@ -402,7 +402,7 @@ export default defineAppConfig({
         fallback: false,
         fallbackMessage: 'Please support us by disabling your ad blocker.',
         code: 'CW7ITKJN',
-        placement: 'shadcn-docs-nuxtvercelapp',
+        placement: 'comforterp-docs-nuxtvercelapp',
         format: 'cover',
       },
     },
