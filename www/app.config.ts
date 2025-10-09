@@ -47,6 +47,18 @@ export default defineAppConfig({
           showLinkIcon: false,
         },
         {
+          title: 'Invoice',
+          to: '/comfortinvoice',
+          target: '_self',
+          showLinkIcon: false,
+        },
+        {
+          title: 'Bookings',
+          to: '/comfortbookings',
+          target: '_self',
+          showLinkIcon: false,
+        },
+        {
           title: 'Events',
           to: '/comfortevents',
           target: '_self',
@@ -80,112 +92,131 @@ export default defineAppConfig({
           text: 'Comfort Accounting',
           collapsible: true,
           items: [
-            {
-              text: 'How to install',
-              link: '/comfortaccounting/how-to-install',
-            },
-            {
-              text: 'How to Translate',
-              link: '/comfortaccounting/how-to-translate',
-            },
-            {
-              text: 'Template Override',
-              link: '/comfortaccounting/template-override',
-            },
-            {
-              text: 'Hooks and Filters',
-              link: '/comfortaccounting/hooks-and-filters',
-            },
-            {
-              text: 'Code Samples',
-              link: '/comfortaccounting/code-samples',
-            },
+            { text: 'How to install', link: '/comfortaccounting/how-to-install' },
+            { text: 'How to Translate', link: '/comfortaccounting/how-to-translate' },
+            { text: 'Template Override', link: '/comfortaccounting/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortaccounting/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortaccounting/code-samples' },
           ],
         },
         {
           text: 'User Guide',
           collapsible: true,
           items: [
-            {
-              text: 'General',
-              link: '/comfortaccounting/user-guide/general',
-            },
-            {
-              text: 'Dashboard',
-              link: '/comfortaccounting/user-guide/dashboard',
-            },
-            {
-              text: 'Agency Manager',
-              link: '/comfortaccounting/user-guide/agency-manager',
-            },
-            {
-              text: 'Account Manager',
-              link: '/comfortaccounting/user-guide/account-manager',
-            },
-            {
-              text: 'Category Manager',
-              link: '/comfortaccounting/user-guide/category-manager',
-            },
-            {
-              text: 'VC Manager',
-              link: '/comfortaccounting/user-guide/vc-manager',
-            },
-            {
-              text: 'Log Manager',
-              link: '/comfortaccounting/user-guide/log-manager',
-            },
-            {
-              text: 'Reports Manager (Pro)',
-              link: '/comfortaccounting/user-guide/reports-manager',
-            },
-            {
-              text: 'Settings Manager',
-              link: '/comfortaccounting/user-guide/settings-manager',
-            },
-            {
-              text: 'Tools Manager',
-              link: '/comfortaccounting/user-guide/tools-manager',
-            },
-            {
-              text: 'Emails Manager',
-              link: '/comfortaccounting/user-guide/emails-manager',
-            },
-            {
-              text: 'Helps & Updates',
-              link: '/comfortaccounting/user-guide/helps-updates',
-            },
-            {
-              text: 'Integrations',
-              link: '/comfortaccounting/user-guide/integrations',
-            },
+            { text: 'General', link: '/comfortaccounting/user-guide/general' },
+            { text: 'Dashboard', link: '/comfortaccounting/user-guide/dashboard' },
+            { text: 'Agency Manager', link: '/comfortaccounting/user-guide/agency-manager' },
+            { text: 'Account Manager', link: '/comfortaccounting/user-guide/account-manager' },
+            { text: 'Category Manager', link: '/comfortaccounting/user-guide/category-manager' },
+            { text: 'VC Manager', link: '/comfortaccounting/user-guide/vc-manager' },
+            { text: 'Log Manager', link: '/comfortaccounting/user-guide/log-manager' },
+            { text: 'Reports Manager (Pro)', link: '/comfortaccounting/user-guide/reports-manager' },
+            { text: 'Settings Manager', link: '/comfortaccounting/user-guide/settings-manager' },
+            { text: 'Tools Manager', link: '/comfortaccounting/user-guide/tools-manager' },
+            { text: 'Emails Manager', link: '/comfortaccounting/user-guide/emails-manager' },
+            { text: 'Helps & Updates', link: '/comfortaccounting/user-guide/helps-updates' },
+            { text: 'Integrations', link: '/comfortaccounting/user-guide/integrations' },
           ],
         },
         {
           text: 'Shortcode',
           collapsible: true,
           items: [
-            {
-              text: '7 Shortcodes',
-              link: '/comfortaccounting/shortcodes',
-            },
+            { text: '7 Shortcodes', link: '/comfortaccounting/shortcodes' },
           ],
         },
         {
           text: 'Widgets',
           collapsible: true,
           items: [
-            {
-              text: 'Classic Widgets',
-              link: '/comfortaccounting/classic-widgets',
-            },
-            {
-              text: 'Elementor Widget',
-              link: '/comfortaccounting/elementor-widgets',
-            },
-            {
-              text: 'Gutenberg Blocks',
-              link: '/comfortaccounting/gutenberg-blocks',
-            },
+            { text: 'Classic Widgets', link: '/comfortaccounting/classic-widgets' },
+            { text: 'Elementor Widget', link: '/comfortaccounting/elementor-widgets' },
+            { text: 'Gutenberg Blocks', link: '/comfortaccounting/gutenberg-blocks' },
+          ],
+        },
+      ],
+
+      '/comfortinvoice': [
+        {
+          text: 'Comfort Invoice',
+          collapsible: true,
+          items: [
+            { text: 'How to install', link: '/comfortinvoice/how-to-install' },
+            { text: 'How to Translate', link: '/comfortinvoice/how-to-translate' },
+            { text: 'Template Override', link: '/comfortinvoice/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortinvoice/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortinvoice/code-samples' },
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortinvoice/user-guide/general' },
+            { text: 'Dashboard', link: '/comfortinvoice/user-guide/dashboard' },
+            { text: 'Invoice Manager', link: '/comfortinvoice/user-guide/invoice-manager' },
+            { text: 'Customer Manager', link: '/comfortinvoice/user-guide/customer-manager' },
+            { text: 'Item Manager', link: '/comfortinvoice/user-guide/item-manager' },
+            { text: 'Tax Manager', link: '/comfortinvoice/user-guide/tax-manager' },
+            { text: 'Payment History Manager', link: '/comfortinvoice/user-guide/payment-history-manager' },
+            { text: 'Settings Manager', link: '/comfortinvoice/user-guide/settings-manager' },
+            { text: 'Tools Manager', link: '/comfortinvoice/user-guide/tools-manager' },
+            { text: 'Emails Manager', link: '/comfortinvoice/user-guide/emails-manager' },
+            { text: 'Helps & Updates', link: '/comfortinvoice/user-guide/helps-updates' },
+            { text: 'WooCommerce Integration', link: '/comfortinvoice/user-guide/woo-integration' },
+          ],
+        },
+        {
+          text: 'Widgets',
+          collapsible: true,
+          items: [
+            { text: 'Dashboard Widgets', link: '/comfortinvoice/dashboard-widgets' },
+            { text: 'Classic Widgets', link: '/comfortinvoice/classic-widgets' },
+            { text: 'Elementor Widget', link: '/comfortinvoice/elementor-widgets' },
+            { text: 'Gutenberg Blocks', link: '/comfortinvoice/gutenberg-blocks' },
+          ],
+        },
+      ],
+
+      '/comfortbookings': [
+        {
+          text: 'Comfort Bookings',
+          collapsible: true,
+          items: [
+            { text: 'How to install', link: '/comfortbookings/how-to-install' },
+            { text: 'How to Translate', link: '/comfortbookings/how-to-translate' },
+            { text: 'Template Override', link: '/comfortbookings/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortbookings/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortbookings/code-samples' },
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortbookings/user-guide/general' },
+            { text: 'Dashboard', link: '/comfortbookings/user-guide/dashboard' },
+            { text: 'Appointment Type Manager', link: '/comfortbookings/user-guide/type-manager' },
+            { text: 'Meeting & Booking Manager', link: '/comfortbookings/user-guide/meeting-booking-manager' },
+            { text: 'Public Meeting & Booking', link: '/comfortbookings/user-guide/public-meeting-booking' },
+            { text: 'Meeting & Booking Calendar (Pro)', link: '/comfortbookings/user-guide/calendar' },
+            { text: 'Payments History', link: '/comfortbookings/user-guide/payment-history-manager' },
+            { text: 'Orders', link: '/comfortbookings/user-guide/orders' },
+            { text: 'Payment Methods', link: '/comfortbookings/user-guide/payment-methods-manager' },
+            { text: 'Settings Manager', link: '/comfortbookings/user-guide/settings-manager' },
+            { text: 'Tools Manager', link: '/comfortbookings/user-guide/tools-manager' },
+            { text: 'Emails Manager', link: '/comfortbookings/user-guide/emails-manager' },
+            { text: 'SMS Alerts Manager', link: '/comfortbookings/user-guide/sms-alerts-manager' },
+            { text: 'Helps & Updates', link: '/comfortbookings/user-guide/helps-updates' },
+          ],
+        },
+        {
+          text: 'Widgets',
+          collapsible: true,
+          items: [
+            { text: 'Classic Widgets', link: '/comfortbookings/classic-widgets' },
+            { text: 'Elementor Widget', link: '/comfortbookings/elementor-widgets' },
+            { text: 'Gutenberg Blocks', link: '/comfortbookings/gutenberg-blocks' },
           ],
         },
       ],

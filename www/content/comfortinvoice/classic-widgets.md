@@ -1,14 +1,13 @@
 ---
-title: "Classic Widgets"
+title: "Comfort Accounting Documentation"
 description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
+keywords: "Comfort Accounting index keywords."
 url: "/comfortaccounting/classic-widgets"
 type: "article"
 site_name: "Comfort ERP"
 image: /seo_card.png
 card: "article"
 ---
-
 # Classic Widgets
 
 <!-- WordPress currently doesn’t support classic widgets but still you can enable it by using this plugin [“Classic Widgets”](https://wordpress.org/plugins/classic-widgets/)

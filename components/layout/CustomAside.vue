@@ -44,14 +44,20 @@ const route = useRoute();
 const appConfig = useAppConfig();
 
 const sidebarItems = computed(() => {
-  const path = route.path;
+  const path = route.path.replace(/^\/+|\/+$/g, ''); // Remove leading/trailing slashes
 
   const sidebarConfig = appConfig.shadcnDocs?.sidebar || {};
 
-  // Find which config section matches the current route
-  const key = Object.keys(sidebarConfig).find((k) => path.startsWith(k));
+  // Normalize config keys too
+  const normalizedConfig = Object.fromEntries(
+      Object.entries(sidebarConfig).map(([key, value]) => [
+        key.replace(/^\/+|\/+$/g, ''),
+        value,
+      ])
+  );
 
-  return key ? sidebarConfig[key] : [];
+  const key = Object.keys(normalizedConfig).find((k) => path.startsWith(k));
+  return key ? normalizedConfig[key] : [];
 });
 
 const tree = computed(() => {
