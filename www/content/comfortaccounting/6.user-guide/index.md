@@ -11,6 +11,6 @@ card: "article"
 
 # Comfort Accounting Documentation
 
-Welcome to the Comfort Accounting main page. - user guide
+Welcome to the Comfort Accounting user guide.
 
 

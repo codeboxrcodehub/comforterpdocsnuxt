@@ -11,6 +11,6 @@ card: "article"
 
 # Comfort Events Documentation
 
-Welcome to the Comfort Events main page. - user guide
+Welcome to the Comfort Events user guide.
 
 
