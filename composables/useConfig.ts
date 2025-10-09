@@ -160,7 +160,7 @@ const defaultConfig: DefaultConfig = {
 };
 
 export function useConfig() {
-  const appConfig = computed(() => useAppConfig()?.shadcnDocs || {});
+  const appConfig = computed(() => useAppConfig()?.comfortErpDocs || {});
 
   const { navKeyFromPath } = useContentHelpers();
   const { navigation, page } = useContent();

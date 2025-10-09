@@ -20,7 +20,7 @@
       <ContentRenderer
         :key="page._id"
         :value="page"
-        :data="(appConfig.shadcnDocs as any)?.data"
+        :data="(appConfig.comfortErpDocs as any)?.data"
       />
     </div>
     <main
@@ -54,7 +54,7 @@
           v-else
           :key="page._id"
           :value="page"
-          :data="(appConfig.shadcnDocs as any)?.data"
+          :data="(appConfig.comfortErpDocs as any)?.data"
           class="docs-content"
         />
 
