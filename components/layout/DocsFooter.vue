@@ -7,8 +7,8 @@
       <LayoutBackToTop />
     </div>
 
-    <LayoutPrevNext />
-    <!-- <LayoutCustomPrevNext /> --> <!-- this custom prev/next works with sidebar array -->
+    <!-- <LayoutPrevNext /> -->
+    <LayoutCustomPrevNext /> <!-- this custom prev/next works with sidebar array -->
 
     <div class="flex">
       <LayoutCarbonAds v-if="!isDesktop && carbonAdsEnabled" class="mx-auto" />

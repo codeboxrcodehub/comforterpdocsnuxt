@@ -45,6 +45,7 @@ const appConfig = useAppConfig();
 
 const sidebarItems = computed(() => {
   const path = route.path;
+
   const sidebarConfig = appConfig.shadcnDocs?.sidebar || {};
 
   // Find which config section matches the current route
@@ -65,4 +66,3 @@ const tree = computed(() => {
 
 const path = computed(() => route.path);
 </script>
-

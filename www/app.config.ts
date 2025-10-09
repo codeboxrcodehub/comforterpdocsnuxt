@@ -52,60 +52,6 @@ export default defineAppConfig({
           target: '_self',
           showLinkIcon: false,
         },
-        /** {
-          title: 'Docs',
-          links: [
-            {
-              title: 'Getting Started',
-              to: '/getting-started',
-              description: 'Start building your document with shadcn-docs-nuxt',
-              icon: 'lucide:rocket',
-            },
-            {
-              title: 'Components',
-              to: '/components/prose',
-              description: 'Explore available UI components and usage examples.',
-              icon: 'lucide:box',
-            },
-            {
-              title: 'API',
-              to: '/api/configuration/shadcn-docs',
-              description: 'Discover the configurations and exposed APIs.',
-              target: '_self',
-              icon: 'lucide:code',
-            },
-          ],
-        }, */
-        /** {
-          title: 'Credits',
-          links: [{
-            title: 'shadcn-ui',
-            to: 'https://ui.shadcn.com/',
-            description: 'For the beautiful component design & docs design',
-            target: '_blank',
-          }, {
-            title: 'shadcn-vue',
-            to: 'https://www.shadcn-vue.com/',
-            description: 'For the vue port of shadcn-ui & some docs component source',
-            target: '_blank',
-          }, {
-            title: 'Docus',
-            to: 'https://docus.dev/',
-            description: 'For inspiration & some docs component source',
-            target: '_blank',
-          }, {
-            title: 'Nuxt Content',
-            to: 'https://content.nuxt.com/',
-            description: 'Content made easy for Vue Developers',
-            target: '_blank',
-          }],
-        }, */
-        /** {
-          title: 'Blog',
-          to: '/blog',
-          target: '_self',
-          showLinkIcon: false,
-        }, */
       ],
       links: [
         {
@@ -243,6 +189,46 @@ export default defineAppConfig({
               text: 'Gutenberg Blocks',
               link: '/comfortaccounting/gutenberg-blocks',
             },
+          ],
+        },
+      ],
+
+      '/comfortevents': [
+        {
+          text: 'Comfort Event',
+          collapsible: true,
+          items: [
+            { text: 'How to install', link: '/comfortevents/how-to-install' },
+            { text: 'How to Translate', link: '/comfortevents/how-to-translate' },
+            { text: 'Template Override', link: '/comfortevents/template-override' },
+            { text: 'Hooks and Filters', link: '/comfortevents/hooks-and-filters' },
+            { text: 'Code Samples', link: '/comfortevents/code-samples' },
+          ],
+        },
+        {
+          text: 'User Guide',
+          collapsible: true,
+          items: [
+            { text: 'General', link: '/comfortevents/user-guide/general' },
+            { text: 'Event Manager', link: '/comfortevents/user-guide/event-manager' },
+            { text: 'Event Calendar View(Pro)', link: '/comfortevents/user-guide/event-calendar' },
+            { text: 'Speaker Manager', link: '/comfortevents/user-guide/speaker-manager' },
+            { text: 'Sponsor Manager', link: '/comfortevents/user-guide/sponsor-manager' },
+            { text: 'Event Category', link: '/comfortevents/user-guide/event-category' },
+            { text: 'Event Tags', link: '/comfortevents/user-guide/event-tags' },
+            { text: 'Orders', link: '/comfortevents/user-guide/orders' },
+            { text: 'Payment History', link: '/comfortevents/user-guide/payment-history' },
+            { text: 'Payment Methods', link: '/comfortevents/user-guide/payment-methods' },
+            { text: 'Tools Manager', link: '/comfortevents/user-guide/tools-manager' },
+            { text: 'Settings Manager', link: '/comfortevents/user-guide/settings' },
+            { text: 'Email Templates', link: '/comfortevents/user-guide/emails' },
+          ],
+        },
+        {
+          text: 'Shortcode',
+          collapsible: true,
+          items: [
+            { text: '7 Shortcodes', link: '/comfortevents/shortcodes' },
           ],
         },
       ],
