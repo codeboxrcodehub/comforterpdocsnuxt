@@ -1,7 +1,7 @@
 export default defineAppConfig({
   comfortErpDocs: {
     site: {
-      name: 'comforterp-docs',
+      name: 'Comfort ERP Documentation',
       description: 'Comfort ERP Documentation',
       ogImage: '/hero.png',
       ogImageComponent: 'ComfortErpDocs',
@@ -26,7 +26,7 @@ export default defineAppConfig({
       border: true,
     },
     header: {
-      title: 'comforterp-docs',
+      title: 'Comfort ERP Documentation',
       showTitle: true,
       logo: {
         light: '/logo.png',
@@ -395,16 +395,6 @@ export default defineAppConfig({
           target: '_blank',
         },
       ],
-      carbonAds: {
-        enable: true,
-        disableInDev: true,
-        disableInMobile: false,
-        fallback: false,
-        fallbackMessage: 'Please support us by disabling your ad blocker.',
-        code: 'CW7ITKJN',
-        placement: 'comforterp-docs-nuxtvercelapp',
-        format: 'cover',
-      },
     },
     search: {
       enable: true,
