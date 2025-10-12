@@ -29,6 +29,10 @@ actions:
     variant: outline
     to: https://comforterp.com/
     target: _blank
+logo:
+    light: /comforterp_logo_brand_vertical.png
+    dark: /comforterp_logo_brand_vertical.png
+    alt: Comfort ERP Logo
 ---
 
 #title

@@ -1,17 +1,15 @@
 <template>
   <div
-    class="gap-8 px-4 py-8 md:py-12 md:pb-8 lg:py-12 lg:pb-10"
-    :class="{ 'grid md:grid-cols-3': $slots.right }"
+      class="gap-8 px-4 py-8 md:py-12 md:pb-8 lg:py-12 lg:pb-10"
+      :class="{ 'grid md:grid-cols-2': true }"
   >
-    <section
-      class="flex flex-col items-start gap-2"
-      :class="{ 'md:col-span-2': $slots.right }"
-    >
+    <!-- Left Column - Content -->
+    <section class="flex flex-col items-start gap-2">
       <NuxtLinkLocale
-        v-if="announcement"
-        :to="announcement.to"
-        :target="announcement.target"
-        class="inline-flex items-center px-0.5 text-sm font-medium"
+          v-if="announcement"
+          :to="announcement.to"
+          :target="announcement.target"
+          class="inline-flex items-center px-0.5 text-sm font-medium"
       >
         <template v-if="announcement.icon">
           <SmartIcon :name="announcement.icon" :size="16" />
@@ -24,19 +22,16 @@
       <h1 class="text-3xl font-bold leading-tight tracking-tighter md:text-4xl lg:leading-[1.1]">
         <ContentSlot :use="$slots.title" unwrap="p" />
       </h1>
-      <h1 class="text-3xl font-bold leading-tight tracking-tighter md:text-4xl lg:leading-[1.1]">
-        <ContentSlot :use="$slots.description" unwrap="p" />
-      </h1>
       <p class="text-foreground max-w-2xl text-lg font-light">
         <ContentSlot :use="$slots.subtitle" unwrap="p" />
       </p>
 
       <div class="flex w-full items-center justify-start gap-2 py-2">
         <NuxtLinkLocale
-          v-for="(action, i) in actions"
-          :key="i"
-          :to="action.to"
-          :target="action.target"
+            v-for="(action, i) in actions"
+            :key="i"
+            :to="action.to"
+            :target="action.target"
         >
           <UiButton :variant="action.variant" size="sm">
             <SmartIcon v-if="action.leftIcon" :name="action.leftIcon" class="mr-1" />
@@ -46,8 +41,23 @@
         </NuxtLinkLocale>
       </div>
     </section>
-    <div class="mx-auto" :class="{ 'order-first md:order-last': mobileRight === 'top' }">
-      <ContentSlot :use="$slots.right" unwrap="p" />
+
+    <!-- Right Column - Logo -->
+    <div class="flex items-center justify-center order-first md:order-last">
+      <div class="flex flex-col items-center gap-4">
+        <div class="flex items-center justify-center rounded-2xl bg-muted/20">
+          <img
+              :src="logo?.light"
+              :alt="logo?.alt"
+              class="h-32 w-32 object-contain dark:hidden"
+          />
+          <img
+              :src="logo?.dark || logo?.light"
+              :alt="logo?.alt"
+              class="hidden h-32 w-32 object-contain dark:block"
+          />
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -68,6 +78,11 @@ defineProps<{
     to: string;
     target?: Target;
   }];
+  logo?: {
+    light?: string;
+    dark?: string;
+    alt?: string;
+  };
   mobileRight?: 'top' | 'bottom';
 }>();
 defineSlots();
