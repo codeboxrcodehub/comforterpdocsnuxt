@@ -53,6 +53,7 @@ export default defineNuxtConfig({
     },
     css: [
         join(currentDir, './assets/css/themes.css'),
+        join(currentDir, './assets/css/custom.css'),
         //'~/assets/css/tailwind.css',
         join(currentDir, './www/assets/css/tailwind.css'),
     ],

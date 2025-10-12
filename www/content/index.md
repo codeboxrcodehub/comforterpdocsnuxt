@@ -22,10 +22,6 @@ keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort 
 
 ::hero
 ---
-announcement:
-  title: 'v1.1 release'
-  icon: '🎉'
-  to: /
 actions:
   - name: Get Started
     to: /
@@ -46,3 +42,11 @@ Comfort ERP Documentation
 #description
 Documentation for Comfort ERP plugins
 ::
+
+<!-- Custom home layout -->
+<div class="custom-layout custom-layout-1">
+  <h1>🏀</h1>
+  <h1>Contact Us</h1>
+  <p>We are continuously updating this documentation but you may have custom query.</p>
+  <a href="https://comforterp.com/contact-us" target="_blank" class="btn">Contact us</a>
+</div>
