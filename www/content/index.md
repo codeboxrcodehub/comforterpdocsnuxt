@@ -24,16 +24,12 @@ keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort 
 ---
 actions:
   - name: Get Started
-    to: /
+    to: /comfortaccounting
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
     leftIcon: 'lucide:github'
-  - name: Sponsor
-    variant: outline
     target: _blank
-    to: https://ko-fi.com/ztl_uwu
-    leftIcon: 'lucide:heart'
 ---
 
 #title
@@ -41,6 +37,40 @@ Comfort ERP Documentation
 
 #description
 Documentation for Comfort ERP plugins
+::
+
+::features-section
+---
+features:
+- icon:
+    light: /comfortaccounting_logo_black.png
+    dark: /comfortaccounting_logo_white.png
+    alt: Comfort Accounting logo
+  title: Comfort Accounting
+  details: Comprehensive Accounting solution for WordPress
+  link: /comfortaccounting
+- icon:
+    light: /comfortinvoice_logo_black.png
+    dark: /comfortinvoice_logo_white.png
+    alt: Comfort Invoice logo
+  title: Comfort Inventory & Invoice
+  details: Invoice solution inside WordPress for SME business
+  link: /comfortinvoice
+- icon:
+    light: /comfortbookings_icon_black.svg
+    dark: /comfortbookings_icon_white.svg
+    alt: Comfort Bookings logo
+  title: Comfort Bookings
+  details: Bookings & Appointments system for SME business inside WordPress
+  link: /comfortbookings
+- icon:
+    light: /comfortevents_logo_black.svg
+    dark: /comfortevents_icon_white.svg
+    alt: Comfort Events logo
+  title: Comfort Events
+  details: A powerful event management plugin for WordPress.
+  link: /comfortevents
+---
 ::
 
 <!-- Custom home layout -->
