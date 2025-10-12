@@ -20,23 +20,23 @@ fbAppId: "1249182889483061"
 keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort Inventory & Invoice Documentation, WordPress ERP, ERP solution"
 ---
 
-::hero
+::hero-alt
 ---
 actions:
   - name: Get Started
     to: /comfortaccounting
-  - name: GitHub
+  - name: Try Comfort ERP Plugins
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
+    to: https://comforterp.com/
     target: _blank
 ---
 
 #title
-Comfort ERP Documentation
-
+Comfort ERP
 #description
 Documentation for Comfort ERP plugins
+#subtitle
+Accounting, Inventory & Invoice
 ::
 
 ::features-section
