@@ -66,14 +66,14 @@ export default defineAppConfig({
         },
       ],
       links: [
-        {
+        /* {
           icon: 'lucide:coffee',
           to: '#',
           target: '_blank',
-        },
+        }, */
         {
           icon: 'lucide:github',
-          to: '#',
+          to: 'https://github.com/codeboxrcodehub/comforterpdocsnuxt',
           target: '_blank',
         },
       ],
@@ -324,30 +324,40 @@ export default defineAppConfig({
       border: true,
       credits: 'FOOTER_CREDIT',
       links: [
-        {
+        /* {
           icon: 'lucide:heart',
           title: 'Sponsor Me',
           to: 'https://ko-fi.com/ztl_uwu',
           target: '_blank',
-        },
+        }, */
         {
           icon: 'lucide:twitter',
-          to: 'https://x.com/ZTL_UwU',
+          to: 'https://x.com/comforterpwp',
           target: '_blank',
         },
         {
+          icon: 'lucide:facebook',
+          to: 'https://www.facebook.com/comforterp/',
+          target: '_blank',
+        },
+        {
+          icon: 'lucide:youtube',
+          to: 'https://www.youtube.com/@comforterp',
+          target: '_blank',
+        },
+        /* {
           icon: 'lucide-lab:butterfly',
           to: 'https://bsky.app/profile/ztl-uwu.bsky.social',
           target: '_blank',
-        },
-        {
+        }, */
+        /* {
           icon: 'simple-icons:discord',
           to: 'https://discord.gg/9P5HzAz8DT',
           target: '_blank',
-        },
+        }, */
         {
           icon: 'lucide:github',
-          to: '#',
+          to: 'https://github.com/codeboxrcodehub/comforterpdocsnuxt',
           target: '_blank',
         },
       ],
@@ -361,37 +371,37 @@ export default defineAppConfig({
         {
           title: 'Star on GitHub',
           icon: 'lucide:star',
-          to: '#',
+          to: 'https://github.com/codeboxrcodehub/comforterpdocsnuxt',
           target: '_blank',
           showLinkIcon: true,
         },
         {
           title: 'Create Issues',
           icon: 'lucide:circle-dot',
-          to: '#',
+          to: 'https://github.com/codeboxrcodehub/comforterpdocsnuxt',
           target: '_blank',
           showLinkIcon: true,
         },
       ],
       iconLinks: [
         {
-          icon: 'lucide:coffee',
-          to: 'https://ko-fi.com/ztl_uwu',
-          target: '_blank',
-        },
-        {
           icon: 'lucide:twitter',
-          to: 'https://x.com/ZTL_UwU',
+          to: 'https://x.com/comforterpwp',
           target: '_blank',
         },
         {
-          icon: 'lucide-lab:butterfly',
-          to: 'https://bsky.app/profile/ztl-uwu.bsky.social',
+          icon: 'lucide:facebook',
+          to: 'https://www.facebook.com/comforterp/',
           target: '_blank',
         },
         {
-          icon: 'simple-icons:discord',
-          to: 'https://discord.gg/9P5HzAz8DT',
+          icon: 'lucide:youtube',
+          to: 'https://www.youtube.com/@comforterp',
+          target: '_blank',
+        },
+        {
+          icon: 'lucide:github',
+          to: 'https://github.com/codeboxrcodehub/comforterpdocsnuxt',
           target: '_blank',
         },
       ],
