@@ -17,11 +17,16 @@ const config = useConfig();
 const appConfig = useAppConfig();
 
 useSeoMeta({
-  title: `${page.value?.title ?? '404'} - ${config.value.site.name}`,
-  ogTitle: page.value?.title,
+  title: page.value?.title,
+  ogTitle: page.value?.ogTitle,
   description: page.value?.description,
-  ogDescription: page.value?.description,
-  ogImage: config.value.site.ogImage,
-  twitterCard: 'summary_large_image',
+  ogDescription: page.value?.ogDescription,
+  ogImage: page.value?.ogImage,
+  ogUrl: page.value?.ogUrl,
+  twitterCard: page.value?.twitterCard,
+  twitterTitle: page.value?.twitterTitle,
+  twitterDescription: page.value?.twitterDescription,
+  twitterImage: page.value?.twitterImage,
+  twitterSite: page.value?.twitterSite,
 });
 </script>
