@@ -18,15 +18,28 @@ const appConfig = useAppConfig();
 
 useSeoMeta({
   title: page.value?.title,
-  ogTitle: page.value?.ogTitle,
   description: page.value?.description,
+
+  ogType: page.value?.ogType,
+  ogTitle: page.value?.ogTitle,
   ogDescription: page.value?.ogDescription,
+  ogSiteName: page.value?.ogSiteName,
   ogImage: page.value?.ogImage,
   ogUrl: page.value?.ogUrl,
+
   twitterCard: page.value?.twitterCard,
   twitterTitle: page.value?.twitterTitle,
   twitterDescription: page.value?.twitterDescription,
   twitterImage: page.value?.twitterImage,
   twitterSite: page.value?.twitterSite,
+});
+
+// For Facebook App ID
+useHead({
+  meta: [
+    { property: 'fb:app_id', content: page.value?.fbAppId },
+    { name: 'keywords', content: page.value?.keywords },
+    { name: 'twitter:url', content: page.value?.twitterUrl },
+  ],
 });
 </script>

@@ -1,17 +1,23 @@
 ---
 title: "Comfort ERP Documentation for WordPress"
 description: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+
+ogType: "article"
 ogTitle: "Comfort ERP Documentation for WordPress"
 ogDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+ogSiteName: "Comfort ERP Documentation"
 ogImage: "https://docs.comforterp.com/assets/images/seo.png"
 ogUrl: "https://docs.comforterp.com"
-twitterCard: "summary_large_image"
+
+twitterCard: "article"
 twitterTitle: "Comfort ERP Documentation for WordPress"
 twitterDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
-twitterImage: "https://docs.comforterp.com/assets/images/seo.png"
 twitterSite: "@ComfortERP"
+twitterImage: "https://docs.comforterp.com/assets/images/seo.png"
+twitterUrl: "https://docs.comforterp.com"
+
 fbAppId: "1249182889483061"
-keywords: ["Comfort ERP Documentation", "Comfort Accounting Documentation", "Comfort Inventory & Invoice Documentation", "WordPress ERP", "ERP solution"]
+keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort Inventory & Invoice Documentation, WordPress ERP, ERP solution"
 ---
 
 ::hero

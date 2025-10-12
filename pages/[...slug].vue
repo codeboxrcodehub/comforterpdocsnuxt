@@ -80,15 +80,29 @@ const config = useConfig();
 const appConfig = useAppConfig();
 
 useSeoMeta({
-  title: `${page.value?.title ?? '404'} - ${config.value.site.name}`,
-  ogTitle: page.value?.title,
-  description: page.value?.description,
-  ogDescription: page.value?.description,
-  twitterCard: 'summary_large_image',
-});
-
-defineOgImageComponent(config.value.site.ogImageComponent, {
   title: page.value?.title,
   description: page.value?.description,
+
+  ogType: page.value?.ogType,
+  ogTitle: page.value?.ogTitle,
+  ogDescription: page.value?.ogDescription,
+  ogSiteName: page.value?.ogSiteName,
+  ogImage: page.value?.ogImage,
+  ogUrl: page.value?.ogUrl,
+
+  twitterCard: page.value?.twitterCard,
+  twitterTitle: page.value?.twitterTitle,
+  twitterDescription: page.value?.twitterDescription,
+  twitterImage: page.value?.twitterImage,
+  twitterSite: page.value?.twitterSite,
+});
+
+// For Facebook App ID
+useHead({
+  meta: [
+    { property: 'fb:app_id', content: page.value?.fbAppId },
+    { name: 'keywords', content: page.value?.keywords },
+    { name: 'twitter:url', content: page.value?.twitterUrl },
+  ],
 });
 </script>
