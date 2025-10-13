@@ -1,10 +1,12 @@
 <template>
   <div
       class="gap-8 px-4 py-8 md:py-12 md:pb-8 lg:py-12 lg:pb-10"
-      :class="{ 'grid md:grid-cols-2': true }"
+      :class="{ 'grid md:grid-cols-3': $slots.right }"
   >
-    <!-- Left Column - Content -->
-    <section class="flex flex-col items-start gap-2">
+    <section
+        class="flex flex-col items-start gap-2"
+        :class="{ 'md:col-span-2': $slots.right }"
+    >
       <NuxtLinkLocale
           v-if="announcement"
           :to="announcement.to"
@@ -23,7 +25,7 @@
         <ContentSlot :use="$slots.title" unwrap="p" />
       </h1>
       <p class="text-foreground max-w-2xl text-lg font-light">
-        <ContentSlot :use="$slots.subtitle" unwrap="p" />
+        <ContentSlot :use="$slots.description" unwrap="p" />
       </p>
 
       <div class="flex w-full items-center justify-start gap-2 py-2">
@@ -41,23 +43,8 @@
         </NuxtLinkLocale>
       </div>
     </section>
-
-    <!-- Right Column - Logo -->
-    <div class="flex items-center justify-center order-first md:order-last">
-      <div class="flex flex-col items-center gap-4">
-        <div class="flex items-center justify-center rounded-2xl bg-muted/20">
-          <img
-              :src="logo?.light"
-              :alt="logo?.alt"
-              class="h-32 w-32 object-contain dark:hidden"
-          />
-          <img
-              :src="logo?.dark || logo?.light"
-              :alt="logo?.alt"
-              class="hidden h-32 w-32 object-contain dark:block"
-          />
-        </div>
-      </div>
+    <div class="mx-auto" :class="{ 'order-first md:order-last': mobileRight === 'top' }">
+      <ContentSlot :use="$slots.right" unwrap="p" />
     </div>
   </div>
 </template>
@@ -78,11 +65,6 @@ defineProps<{
     to: string;
     target?: Target;
   }];
-  logo?: {
-    light?: string;
-    dark?: string;
-    alt?: string;
-  };
   mobileRight?: 'top' | 'bottom';
 }>();
 defineSlots();
