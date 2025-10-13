@@ -2,8 +2,8 @@ export default defineAppConfig({
   comfortErpDocs: {
     site: {
       name: 'Comfort ERP Documentation',
-      description: 'Comfort ERP Documentation',
-      ogImage: '/hero.png',
+      description: 'Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp.',
+      ogImage: '/seo_card.png',
       ogImageComponent: 'ComfortErpDocs',
       ogImageColor: 'light',
       umami: {

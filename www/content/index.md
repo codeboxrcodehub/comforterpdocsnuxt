@@ -1,15 +1,15 @@
 ---
-title: "Comfort ERP Documentation for WordPress"
+title: "Documentation for Comfort ERP Plugins for WordPress"
 description: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
 
-ogType: "article"
+ogType: "website"
 ogTitle: "Comfort ERP Documentation for WordPress"
 ogDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "https://docs.comforterp.com/assets/images/seo.png"
 ogUrl: "https://docs.comforterp.com"
 
-twitterCard: "article"
+twitterCard: "website"
 twitterTitle: "Comfort ERP Documentation for WordPress"
 twitterDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
 twitterSite: "@ComfortERP"

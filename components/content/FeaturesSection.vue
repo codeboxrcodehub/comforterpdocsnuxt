@@ -5,7 +5,7 @@
         <Card
             v-for="(feature, index) in validFeatures"
             :key="index"
-            class="group flex flex-col items-center text-center p-6 transition-all duration-300 hover:shadow-lg border-2 hover:border-primary/20"
+            class="customclass group flex flex-col items-center text-center p-6 transition-all duration-300 hover:shadow-lg border-2 hover:border-primary/20"
         >
           <CardContent class="p-0 flex flex-col items-center">
             <div class="mb-6 flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/10 p-3 group-hover:bg-primary/20 transition-colors">
