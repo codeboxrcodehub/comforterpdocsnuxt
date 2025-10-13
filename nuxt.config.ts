@@ -8,12 +8,13 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 
 export default defineNuxtConfig({
     nitro: {
-        preset: 'github-pages',
-        //preset: 'static',
+        //preset: 'github-pages',
+        preset: process.env.PRESET,
     },
     app: {
         //baseURL: '/comforterpdocsnuxt/'
-        baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
+        //baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
+        baseURL: process.env.BASE_URL,
     },
     ssr: true,
     devtools: {enabled: true},
@@ -53,9 +54,9 @@ export default defineNuxtConfig({
     },
     css: [
         join(currentDir, './assets/css/themes.css'),
-        join(currentDir, './assets/css/custom.css'),
         //'~/assets/css/tailwind.css',
         join(currentDir, './www/assets/css/tailwind.css'),
+        join(currentDir, './assets/css/custom.css'),
     ],
     content: {
         documentDriven: true,

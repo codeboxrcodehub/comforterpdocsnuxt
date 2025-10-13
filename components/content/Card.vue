@@ -37,14 +37,7 @@
     </UiCard>
   </UseTemplate>
 
-  <!-- <div class="group-has-[div]:!mt-0 [&:not(:first-child)]:mt-5">
-    <NuxtLinkLocale v-if="to" :to :target>
-      <CardInner />
-    </NuxtLinkLocale>
-    <CardInner v-else />
-  </div> -->
-
-  <div>
+   <div class="group-has-[div]:!mt-0 [&:not(:first-child)]:mt-5">
     <NuxtLinkLocale v-if="to" :to :target>
       <CardInner />
     </NuxtLinkLocale>

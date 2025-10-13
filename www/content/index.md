@@ -20,7 +20,7 @@ fbAppId: "1249182889483061"
 keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort Inventory & Invoice Documentation, WordPress ERP, ERP solution"
 ---
 
-::hero-alt
+::hero-alt-custom
 ---
 actions:
   - name: Get Started
@@ -53,6 +53,7 @@ features:
   title: Comfort Accounting
   details: Comprehensive Accounting solution for WordPress
   link: /comfortaccounting
+  to: /comfortaccounting
 - icon:
     light: /comfortinvoice_logo_black.png
     dark: /comfortinvoice_logo_white.png
