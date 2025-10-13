@@ -33,10 +33,10 @@
         <ContentSlot :use="$slots.footer" unwrap="p" />
         {{ footer }}
       </UiCardFooter>
-      <SmartIcon v-if="to && showLinkIcon" name="lucide:arrow-up-right" class="absolute right-4 top-4" />
+      <!-- <SmartIcon v-if="to && showLinkIcon" name="lucide:arrow-up-right" class="absolute right-4 top-4" /> -->
     </UiCard>
   </UseTemplate>
-  <div class="group-has-[div]:!mt-0 [&:not(:first-child)]:mt-5">
+  <div>
     <NuxtLinkLocale v-if="to" :to :target>
       <CardInner />
     </NuxtLinkLocale>

@@ -2,12 +2,13 @@
   <section class="w-full py-12 md:py-24 lg:py-8">
     <div class="container px-4 md:px-6">
       <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
-        <Card
+        <CardCustom
             v-for="(feature, index) in validFeatures"
             :key="index"
+            :to="feature?.link || '#'"
             class="classnotinuse group flex flex-col items-center text-center p-6 transition-all duration-300 hover:shadow-lg border-2 hover:border-primary/20"
         >
-          <CardContentCustom class="p-0 flex flex-col items-center">
+          <CardContentCustom class="flex flex-col items-center">
             <div class="mb-6 flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/10 p-3 group-hover:bg-primary/20 transition-colors">
               <template v-if="feature?.icon">
                 <img
@@ -34,15 +35,15 @@
               {{ feature?.details || 'Feature description' }}
             </p>
 
-            <NuxtLink
+            <!-- <NuxtLink
                 :to="feature?.link || '#'"
                 class="inline-flex items-center text-sm font-medium text-primary hover:underline group/link"
             >
               Learn more
               <Icon name="lucide:arrow-right" class="ml-1 h-4 w-4 transition-transform group-hover/link:translate-x-1" />
-            </NuxtLink>
+            </NuxtLink> -->
           </CardContentCustom>
-        </Card>
+        </CardCustom>
       </div>
     </div>
   </section>
@@ -50,6 +51,7 @@
 
 <script setup>
 import CardContentCustom from "~/components/ui/card/CardContentCustom.vue";
+import CardCustom from "~/components/content/CardCustom.vue";
 
 const props = defineProps({
   features: {

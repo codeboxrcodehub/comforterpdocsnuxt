@@ -19,11 +19,13 @@
         <Icon name="lucide:arrow-right" class="ml-1 size-4" />
       </NuxtLinkLocale>
 
-      <h1 class="text-3xl font-bold leading-tight tracking-tighter md:text-4xl lg:leading-[1.1]">
+      <h1 class="text-5xl font-bold leading-tight tracking-tighter md:text-6xl lg:leading-[1.1] custom-hero-alt-heading-1">
         <ContentSlot :use="$slots.title" unwrap="p" />
       </h1>
-      <h2>Documentation for Comfort ERP plugins</h2>
-      <p class="text-foreground max-w-2xl text-lg font-light">
+      <h1 class="text-5xl font-bold leading-tight tracking-tighter md:text-6xl lg:leading-[1.1]">
+        <ContentSlot :use="$slots.description" unwrap="p" />
+      </h1>
+      <p class="text-foreground max-w-3xl text-xl font-light md:text-2xl">
         <ContentSlot :use="$slots.subtitle" unwrap="p" />
       </p>
 
