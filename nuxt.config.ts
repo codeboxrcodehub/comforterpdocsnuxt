@@ -15,6 +15,11 @@ export default defineNuxtConfig({
         //baseURL: '/comforterpdocsnuxt/'
         //baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
         baseURL: process.env.BASE_URL,
+        head: {
+            link: [
+                { rel: 'icon', type: 'image/svg', href: '/logo_icon_brand_512.png' },
+            ],
+        }
     },
     ssr: true,
     devtools: {enabled: true},
