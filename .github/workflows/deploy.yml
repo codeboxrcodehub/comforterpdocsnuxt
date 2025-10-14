@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master # Or your default branch (e.g., master)
+      - master
   workflow_dispatch:
 
 jobs:
@@ -16,20 +16,21 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Or your preferred Node.js version
-          cache: 'npm' # Or 'yarn', 'pnpm'
+          node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install # Or pnpm install, yarn install
+        run: npm ci
 
-      # Set the environment variable and run the generate script
-      - name: Build and Generate Static Files
-        # **IMPORTANT:** Replace 'repository-name' with your actual repository name
-        run: NUXT_APP_BASE_URL=/comforterpdocsnuxt/ npm run generate
+      - name: Generate static site
+        env:
+          BASE_URL: /comforterpdocsnuxt/
+        run: |
+          npm run generate
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./.output/public # This is the directory with your generated files
-          publish_branch: gh-pages # The branch to deploy to (GitHub Pages default)
+          publish_dir: .output/public
+          publish_branch: gh-pages

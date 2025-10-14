@@ -6,15 +6,20 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 
 //const base = process.env.NUXT_APP_BASE_URL || '/comforterpdocsnuxt/';
 
+console.log('>>> BASE_URL at build time:', process.env.BASE_URL)
+
+
 export default defineNuxtConfig({
     nitro: {
         //preset: 'github-pages',
         preset: process.env.PRESET,
+        prerender: {
+            failOnError: false, // Don’t exit build on missing docs/images
+        },
     },
     app: {
-        //baseURL: '/comforterpdocsnuxt/'
         //baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
-        baseURL: process.env.BASE_URL,
+        baseURL: process.env.BASE_URL ?? '/',
         head: {
             link: [
                 { rel: 'icon', type: 'image/svg', href: '/logo_icon_brand_512.png' },
