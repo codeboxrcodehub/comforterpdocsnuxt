@@ -6,7 +6,8 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 
 //const base = process.env.NUXT_APP_BASE_URL || '/comforterpdocsnuxt/';
 
-console.log('>>> BASE_URL at build time:', process.env.BASE_URL)
+console.log('>>> BASE_URL at build time:', process.env.BASE_URL);
+console.log('>>> BASE_URL at build time:', process.env.NUXT_APP_BASE_URL);
 
 
 export default defineNuxtConfig({
@@ -19,7 +20,7 @@ export default defineNuxtConfig({
     },
     app: {
         //baseURL: process.env.BASE_URL || '/comforterpdocsnuxt/',
-        baseURL: process.env.BASE_URL ?? '/',
+        baseURL: process.env.NUXT_APP_BASE_URL ?? '/',
         head: {
             link: [
                 { rel: 'icon', type: 'image/svg', href: '/logo_icon_brand_512.png' },

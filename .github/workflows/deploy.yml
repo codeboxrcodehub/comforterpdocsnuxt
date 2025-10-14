@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate static site
         env:
-          BASE_URL: /comforterpdocsnuxt/
+          NUXT_APP_BASE_URL: /comforterpdocsnuxt/
         run: |
           npm run generate
 
