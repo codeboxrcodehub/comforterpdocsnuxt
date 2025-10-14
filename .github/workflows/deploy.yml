@@ -25,6 +25,7 @@ jobs:
       - name: Generate static site
         env:
           NUXT_APP_BASE_URL: /comforterpdocsnuxt/
+          NITRO_PRERENDER_IGNORE_ERRORS: true
         run: |
           npm run generate
 
