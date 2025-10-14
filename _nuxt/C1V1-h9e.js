@@ -1,0 +1,1 @@
+import{g as f,ap as m}from"#entry";function g(o){const{navigation:i}=f(),r=[],a=o.split(/[/#]/g).filter(e=>e!=="");let t="",n=i.value;if(!n)return[];const{locale:c}=m();for(let e=0;e<a.length;e++){const s=a[e].replace(".html","");t+=`/${s}`;const l=n?.find(u=>u._path===t);n=l?.children,e===0&&s===c.value||r.push({title:l?.title??s,href:t})}return r}export{g as u};
