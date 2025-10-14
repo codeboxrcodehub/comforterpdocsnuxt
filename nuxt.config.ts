@@ -7,7 +7,7 @@ const currentDir = dirname(fileURLToPath(import.meta.url));
 //const base = process.env.NUXT_APP_BASE_URL || '/comforterpdocsnuxt/';
 
 console.log('>>> BASE_URL at build time:', process.env.BASE_URL);
-console.log('>>> BASE_URL at build time:', process.env.NUXT_APP_BASE_URL);
+console.log('>>> NUXT_APP_BASE_URL at build time:', process.env.NUXT_APP_BASE_URL);
 
 
 export default defineNuxtConfig({
@@ -15,7 +15,7 @@ export default defineNuxtConfig({
         //preset: 'github-pages',
         preset: process.env.PRESET,
         prerender: {
-            failOnError: false, // Don’t exit build on missing docs/images
+            failOnError: true, // Don’t exit build on missing docs/images
         },
     },
     app: {
