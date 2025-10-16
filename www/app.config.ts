@@ -52,7 +52,7 @@ export default defineAppConfig({
           target: '_self',
           showLinkIcon: false,
         },
-        {
+        /*{
           title: 'Bookings',
           to: '/comfortbookings',
           target: '_self',
@@ -63,7 +63,7 @@ export default defineAppConfig({
           to: '/comfortevents',
           target: '_self',
           showLinkIcon: false,
-        },
+        },*/
       ],
       links: [
         /* {

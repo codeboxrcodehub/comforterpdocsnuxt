@@ -1,5 +1,5 @@
 ---
-title: "Comfort Events – Complete Events solution for WordPress"
+title: "Comfort Events for WordPress Documentation"
 description: "A powerful event management plugin for WordPress."
 
 ogType: "article"
