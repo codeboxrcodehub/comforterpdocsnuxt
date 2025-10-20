@@ -1,12 +1,23 @@
 ---
-title: "Shortcodes"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/shortcodes"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Shortcodes for Comfort Accounting"
+description: "Complete guide to Comfort Accounting shortcodes. Learn how to display financial data, reports, and accounting information anywhere on your site using WordPress shortcodes."
+
+ogType: "article"
+ogTitle: "Shortcodes for Comfort Accounting"
+ogDescription: "Complete guide to Comfort Accounting shortcodes. Learn how to display financial data, reports, and accounting information anywhere on your site using WordPress shortcodes."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/gutenberg-blocks"
+
+twitterCard: "article"
+twitterTitle: "Shortcodes for Comfort Accounting"
+twitterDescription: "Complete guide to Comfort Accounting shortcodes. Learn how to display financial data, reports, and accounting information anywhere on your site using WordPress shortcodes."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/gutenberg-blocks"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting shortcodes, accounting shortcodes, ERP shortcodes, financial shortcodes, WordPress shortcodes, display accounting data, embed financial information, shortcode examples, usage guide"
 ---
 
 # Shortcodes

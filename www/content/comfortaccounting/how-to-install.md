@@ -1,12 +1,23 @@
 ---
-title: "How to Install"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/how-to-install"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "How to Install Comfort Accounting Plugin"
+description: "Learn how to install and setup the Comfort Accounting module in Comfort ERP. Complete installation guide with step-by-step instructions for WordPress ERP system setup."
+
+ogType: "article"
+ogTitle: "How to Install Comfort Accounting Plugin"
+ogDescription: "Learn how to install and setup the Comfort Accounting module in Comfort ERP. Complete installation guide with step-by-step instructions for WordPress ERP system setup."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/how-to-install"
+
+twitterCard: "article"
+twitterTitle: "How to Install Comfort Accounting Plugin"
+twitterDescription: "Learn how to install and setup the Comfort Accounting module in Comfort ERP. Complete installation guide with step-by-step instructions for WordPress ERP system setup."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/how-to-install"
+
+fbAppId: "1249182889483061"
+keywords: "install Comfort Accounting, Comfort ERP setup, ERP plugin installation, WordPress ERP, accounting module setup, manual installation, plugin activation, configuration guide"
 ---
 
 # How to Install

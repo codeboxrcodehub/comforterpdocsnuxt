@@ -1,12 +1,23 @@
 ---
-title: "How to Translate"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/how-to-translate"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "How to Translate Comfort Accounting"
+description: "Learn how to translate Comfort Accounting module into different languages. Complete guide for multilingual setup, localization, and creating custom translations for your Comfort ERP system."
+
+ogType: "article"
+ogTitle: "How to Translate Comfort Accounting"
+ogDescription: "Learn how to translate Comfort Accounting module into different languages. Complete guide for multilingual setup, localization, and creating custom translations for your Comfort ERP system."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/how-to-translate"
+
+twitterCard: "article"
+twitterTitle: "How to Translate Comfort Accounting"
+twitterDescription: "Learn how to translate Comfort Accounting module into different languages. Complete guide for multilingual setup, localization, and creating custom translations for your Comfort ERP system."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/how-to-translate"
+
+fbAppId: "1249182889483061"
+keywords: "translate Comfort Accounting, multilingual setup, language translation, localization guide, internationalization, ERP translation, plugin localization, custom languages, translation files"
 ---
 
 # How to Translate

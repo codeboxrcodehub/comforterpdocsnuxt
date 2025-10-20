@@ -1,12 +1,23 @@
 ---
-title: "Classic Widgets"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/classic-widgets"
-type: "article"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Classic Widgets for Comfort Accounting"
+description: "Learn about classic widgets in Comfort Accounting for displaying financial data. Setup dashboard widgets, sidebar widgets and financial overview tools in your ERP system."
+
+ogType: "article"
+ogTitle: "Classic Widgets for Comfort Accounting"
+ogDescription: "Learn about classic widgets in Comfort Accounting for displaying financial data. Setup dashboard widgets, sidebar widgets and financial overview tools in your ERP system."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/classic-widgets"
+
+twitterCard: "article"
+twitterTitle: "Classic Widgets for Comfort Accounting"
+twitterDescription: "Learn about classic widgets in Comfort Accounting for displaying financial data. Setup dashboard widgets, sidebar widgets and financial overview tools in your ERP system."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/classic-widgets"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting widgets, classic widgets, accounting dashboard widgets, financial widgets, sidebar widgets, WordPress widgets, ERP dashboard, financial overview, reports widget, accounting tools"
 ---
 
 # Classic Widgets
