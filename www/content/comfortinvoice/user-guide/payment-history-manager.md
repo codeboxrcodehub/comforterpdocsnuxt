@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Payment History Manager Guide for Comfort Invoice"
+description: "Learn how to use the Payment History Manager in Comfort Invoice to track payments, monitor payment status, view transaction history, and generate payment reports for your invoices."
 
+ogType: "article"
+ogTitle: "Payment History Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Payment History Manager in Comfort Invoice to track payments, monitor payment status, view transaction history, and generate payment reports for your invoices."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/payment-history-manager"
+
+twitterCard: "article"
+twitterTitle: "Payment History Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Payment History Manager in Comfort Invoice to track payments, monitor payment status, view transaction history, and generate payment reports for your invoices."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/payment-history-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice payment history, payment tracking, payment records, invoice payments, payment status, payment logs, transaction history, payment reports, received payments, payment management"
 ---
 
 # Payment History Manager

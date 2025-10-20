@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Invoice Manager Guide for Comfort Invoice"
+description: "Learn how to use the Invoice Manager in Comfort Invoice to create, edit, and manage invoices efficiently. Master invoice templates, bulk actions, and complete invoice workflow management."
+
+ogType: "article"
+ogTitle: "Invoice Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Invoice Manager in Comfort Invoice to create, edit, and manage invoices efficiently. Master invoice templates, bulk actions, and complete invoice workflow management."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/invoice-manager"
+
+twitterCard: "article"
+twitterTitle: "Invoice Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Invoice Manager in Comfort Invoice to create, edit, and manage invoices efficiently. Master invoice templates, bulk actions, and complete invoice workflow management."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/invoice-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice manager, create invoices, manage invoices, invoice creation, edit invoices, invoice templates, bulk invoice actions, invoice status, client invoices, invoice workflow"
 ---
 
 # Invoice Manager

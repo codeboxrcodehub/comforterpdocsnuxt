@@ -1,16 +1,16 @@
 ---
-title: "Dashboard User Guide for Comfort Accounting"
+title: "Dashboard Guide for Comfort Accounting"
 description: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
 
 ogType: "article"
-ogTitle: "Dashboard User Guide for Comfort Accounting"
+ogTitle: "Dashboard Guide for Comfort Accounting"
 ogDescription: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/dashboard"
 
 twitterCard: "article"
-twitterTitle: "Dashboard User Guide for Comfort Accounting"
+twitterTitle: "Dashboard Guide for Comfort Accounting"
 twitterDescription: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

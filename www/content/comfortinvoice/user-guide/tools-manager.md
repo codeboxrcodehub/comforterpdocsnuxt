@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Tools Manager Guide for Comfort Invoice"
+description: "Learn how to use the Tools Manager in Comfort Invoice for system maintenance, data management, import/export operations, and various utilities to optimize your invoicing workflow."
 
+ogType: "article"
+ogTitle: "Tools Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Tools Manager in Comfort Invoice for system maintenance, data management, import/export operations, and various utilities to optimize your invoicing workflow."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/tools-manager"
+
+twitterCard: "article"
+twitterTitle: "Tools Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Tools Manager in Comfort Invoice for system maintenance, data management, import/export operations, and various utilities to optimize your invoicing workflow."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/tools-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice tools, invoice utilities, system tools, data management, import export tools, backup tools, maintenance utilities, batch processing, invoice tools, system maintenance"
 ---
 
 # Tools Manager

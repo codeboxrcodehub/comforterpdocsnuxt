@@ -1,16 +1,16 @@
 ---
-title: "Log Manager User Guide for Comfort Accounting"
+title: "Log Manager Guide for Comfort Accounting"
 description: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
 
 ogType: "article"
-ogTitle: "Log Manager User Guide for Comfort Accounting"
+ogTitle: "Log Manager Guide for Comfort Accounting"
 ogDescription: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/log-manager"
 
 twitterCard: "article"
-twitterTitle: "Log Manager User Guide for Comfort Accounting"
+twitterTitle: "Log Manager Guide for Comfort Accounting"
 twitterDescription: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

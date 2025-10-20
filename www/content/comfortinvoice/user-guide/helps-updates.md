@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Helps & Updates Guide for Comfort Invoice"
+description: "Access help resources and update guides for Comfort Invoice. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your invoice management system."
 
+ogType: "article"
+ogTitle: "Helps & Updates Guide for Comfort Invoice"
+ogDescription: "Access help resources and update guides for Comfort Invoice. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your invoice management system."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/helps-updates"
+
+twitterCard: "article"
+twitterTitle: "Helps & Updates Guide for Comfort Invoice"
+twitterDescription: "Access help resources and update guides for Comfort Invoice. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your invoice management system."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/helps-updates"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice help, plugin updates, version updates, support guide, troubleshooting, FAQ, help system, update instructions, invoice plugin maintenance, new features, documentation"
 ---
 
 # Helps & Updates

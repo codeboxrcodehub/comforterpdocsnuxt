@@ -1,16 +1,16 @@
 ---
-title: "Emails Manager User Guide for Comfort Accounting"
+title: "Emails Manager Guide for Comfort Accounting"
 description: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
 
 ogType: "article"
-ogTitle: "Emails Manager User Guide for Comfort Accounting"
+ogTitle: "Emails Manager Guide for Comfort Accounting"
 ogDescription: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/emails-manager"
 
 twitterCard: "article"
-twitterTitle: "Emails Manager User Guide for Comfort Accounting"
+twitterTitle: "Emails Manager Guide for Comfort Accounting"
 twitterDescription: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

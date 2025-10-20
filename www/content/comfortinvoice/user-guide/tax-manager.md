@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Tax Manager Guide for Comfort Invoice"
+description: "Learn how to use the Tax Manager in Comfort Invoice to configure tax settings, set up tax rates and classes, and automate tax calculations for your invoices and billing."
+
+ogType: "article"
+ogTitle: "Tax Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Tax Manager in Comfort Invoice to configure tax settings, set up tax rates and classes, and automate tax calculations for your invoices and billing."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/tax-manager"
+
+twitterCard: "article"
+twitterTitle: "Tax Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Tax Manager in Comfort Invoice to configure tax settings, set up tax rates and classes, and automate tax calculations for your invoices and billing."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/tax-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice tax manager, tax settings, tax configuration, VAT settings, sales tax, tax rates, tax classes, tax calculations, automatic tax, tax rules, invoice taxation"
 
 ---
 

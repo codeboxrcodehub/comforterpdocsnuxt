@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/how-to-translate"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "How to Translate Comfort Invoice"
+description: "Learn how to translate Comfort Invoice into multiple languages. Complete guide for multilingual setup, invoice template localization, and creating custom translations for global clients."
+
+ogType: "article"
+ogTitle: "How to Translate Comfort Invoice"
+ogDescription: "Learn how to translate Comfort Invoice into multiple languages. Complete guide for multilingual setup, invoice template localization, and creating custom translations for global clients."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/how-to-translate"
+
+twitterCard: "article"
+twitterTitle: "How to Translate Comfort Invoice"
+twitterDescription: "Learn how to translate Comfort Invoice into multiple languages. Complete guide for multilingual setup, invoice template localization, and creating custom translations for global clients."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/how-to-translate"
+
+fbAppId: "1249182889483061"
+keywords: "translate Comfort Invoice, multilingual invoicing, invoice translation, language localization, international invoices, translation files, custom languages, invoice templates translation, localization guide"
 ---
 # How to Translate
 

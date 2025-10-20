@@ -1,16 +1,16 @@
 ---
-title: "Integrations User Guide for Comfort Accounting"
+title: "Integrations Guide for Comfort Accounting"
 description: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
 
 ogType: "article"
-ogTitle: "Integrations User Guide for Comfort Accounting"
+ogTitle: "Integrations Guide for Comfort Accounting"
 ogDescription: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/integrations"
 
 twitterCard: "article"
-twitterTitle: "Integrations User Guide for Comfort Accounting"
+twitterTitle: "Integrations Guide for Comfort Accounting"
 twitterDescription: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

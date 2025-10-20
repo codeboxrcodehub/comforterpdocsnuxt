@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/dashboard-widgets"
-type: "article"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Dashboard Widgets for Comfort Invoice"
+description: "Learn about Comfort Invoice dashboard widgets for real-time invoice analytics. Monitor pending invoices, payment status, revenue metrics, and financial overview directly from your WordPress dashboard."
+
+ogType: "article"
+ogTitle: "Dashboard Widgets for Comfort Invoice"
+ogDescription: "Learn about Comfort Invoice dashboard widgets for real-time invoice analytics. Monitor pending invoices, payment status, revenue metrics, and financial overview directly from your WordPress dashboard."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/dashboard-widgets"
+
+twitterCard: "article"
+twitterTitle: "Dashboard Widgets for Comfort Invoice"
+twitterDescription: "Learn about Comfort Invoice dashboard widgets for real-time invoice analytics. Monitor pending invoices, payment status, revenue metrics, and financial overview directly from your WordPress dashboard."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/dashboard-widgets"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice dashboard widgets, invoice analytics, financial overview, invoice statistics, WordPress dashboard, invoice metrics, pending invoices, payment tracking, revenue widgets, invoice summary"
 ---
 
 # Dashboard Widgets

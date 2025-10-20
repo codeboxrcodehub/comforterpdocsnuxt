@@ -1,12 +1,23 @@
 ---
-title: "Comfort Accounting Documentation"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "Comfort Accounting index keywords."
-url: "/comfortaccounting/classic-widgets"
-type: "article"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Classic Widgets for Comfort Invoice"
+description: "Learn how to use Comfort Invoice classic widgets to display invoice information in sidebars. Show recent invoices, payment status, and client invoice data anywhere on your site."
+
+ogType: "article"
+ogTitle: "Classic Widgets for Comfort Invoice"
+ogDescription: "Learn how to use Comfort Invoice classic widgets to display invoice information in sidebars. Show recent invoices, payment status, and client invoice data anywhere on your site."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/classic-widgets"
+
+twitterCard: "article"
+twitterTitle: "Classic Widgets for Comfort Invoice"
+twitterDescription: "Learn how to use Comfort Invoice classic widgets to display invoice information in sidebars. Show recent invoices, payment status, and client invoice data anywhere on your site."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/classic-widgets"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice classic widgets, invoice widgets, sidebar widgets, invoice display, recent invoices, invoice status, payment widgets, WordPress widgets, frontend invoice display, client invoice widgets"
 ---
 # Classic Widgets
 

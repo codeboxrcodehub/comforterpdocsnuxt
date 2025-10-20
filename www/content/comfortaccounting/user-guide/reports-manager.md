@@ -1,16 +1,16 @@
 ---
-title: "Reports Manager User Guide for Comfort Accounting"
+title: "Reports Manager Guide for Comfort Accounting"
 description: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
 
 ogType: "article"
-ogTitle: "Reports Manager User Guide for Comfort Accounting"
+ogTitle: "Reports Manager Guide for Comfort Accounting"
 ogDescription: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/reports-manager"
 
 twitterCard: "article"
-twitterTitle: "Reports Manager User Guide for Comfort Accounting"
+twitterTitle: "Reports Manager Guide for Comfort Accounting"
 twitterDescription: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

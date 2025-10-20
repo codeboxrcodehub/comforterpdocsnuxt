@@ -1,16 +1,16 @@
 ---
-title: "Tools Manager User Guide for Comfort Accounting"
+title: "Tools Manager Guide for Comfort Accounting"
 description: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
 
 ogType: "article"
-ogTitle: "Tools Manager User Guide for Comfort Accounting"
+ogTitle: "Tools Manager Guide for Comfort Accounting"
 ogDescription: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/tools-manager"
 
 twitterCard: "article"
-twitterTitle: "Tools Manager User Guide for Comfort Accounting"
+twitterTitle: "Tools Manager Guide for Comfort Accounting"
 twitterDescription: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

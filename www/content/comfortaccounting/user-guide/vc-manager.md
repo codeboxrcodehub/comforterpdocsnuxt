@@ -1,16 +1,16 @@
 ---
-title: "Vendor Client Manager User Guide for Comfort Accounting"
+title: "Vendor Client Manager Guide for Comfort Accounting"
 description: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
 
 ogType: "article"
-ogTitle: "Vendor Client Manager User Guide for Comfort Accounting"
+ogTitle: "Vendor Client Manager Guide for Comfort Accounting"
 ogDescription: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/vc-manager"
 
 twitterCard: "article"
-twitterTitle: "Vendor Client Manager User Guide for Comfort Accounting"
+twitterTitle: "Vendor Client Manager Guide for Comfort Accounting"
 twitterDescription: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

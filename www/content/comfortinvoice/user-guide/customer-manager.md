@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Customer Manager Guide for Comfort Invoice"
+description: "Learn how to use the Customer Manager in Comfort Invoice to manage client information, create customer profiles, and organize contact details for efficient client invoicing and communication."
 
+ogType: "article"
+ogTitle: "Customer Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Customer Manager in Comfort Invoice to manage client information, create customer profiles, and organize contact details for efficient client invoicing and communication."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/customer-manager"
+
+twitterCard: "article"
+twitterTitle: "Customer Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Customer Manager in Comfort Invoice to manage client information, create customer profiles, and organize contact details for efficient client invoicing and communication."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/customer-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice customer manager, client management, customer database, client profiles, contact management, customer information, client accounts, customer settings, client invoicing, customer records"
 ---
 
 # Customer Manager

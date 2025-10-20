@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "WooCommerce Integration Guide for Comfort Invoice"
+description: "Learn how to integrate Comfort Invoice with WooCommerce for automatic invoice generation. Sync orders, create automated invoices, and streamline ecommerce billing workflows seamlessly."
 
+ogType: "article"
+ogTitle: "WooCommerce Integration Guide for Comfort Invoice"
+ogDescription: "Learn how to integrate Comfort Invoice with WooCommerce for automatic invoice generation. Sync orders, create automated invoices, and streamline ecommerce billing workflows seamlessly."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/woo-integration"
+
+twitterCard: "article"
+twitterTitle: "WooCommerce Integration Guide for Comfort Invoice"
+twitterDescription: "Learn how to integrate Comfort Invoice with WooCommerce for automatic invoice generation. Sync orders, create automated invoices, and streamline ecommerce billing workflows seamlessly."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/woo-integration"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice WooCommerce integration, WooCommerce invoices, ecommerce invoicing, automatic invoices, order to invoice, Woo orders, online store invoicing, automated billing, WooCommerce sync, order management"
 ---
 
 # WooCommerce Integration (Pro)

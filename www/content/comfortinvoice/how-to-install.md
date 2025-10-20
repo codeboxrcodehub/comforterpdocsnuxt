@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/how-to-install"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "How to Install Comfort Invoice Plugin"
+description: "Follow our step-by-step guide to install and activate the Comfort Invoice WordPress plugin. Learn both manual upload and admin panel methods for successful invoice system setup."
+
+ogType: "article"
+ogTitle: "How to Install Comfort Invoice Plugin"
+ogDescription: "Follow our step-by-step guide to install and activate the Comfort Invoice WordPress plugin. Learn both manual upload and admin panel methods for successful invoice system setup."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/how-to-install"
+
+twitterCard: "article"
+twitterTitle: "How to Install Comfort Invoice Plugin"
+twitterDescription: "Follow our step-by-step guide to install and activate the Comfort Invoice WordPress plugin. Learn both manual upload and admin panel methods for successful invoice system setup."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/how-to-install"
+
+fbAppId: "1249182889483061"
+keywords: "install Comfort Invoice, invoice plugin setup, WordPress installation, activation guide, manual installation, upload plugin, activate Comfort Invoice, configuration steps, plugin setup"
 ---
 # How to Install
 

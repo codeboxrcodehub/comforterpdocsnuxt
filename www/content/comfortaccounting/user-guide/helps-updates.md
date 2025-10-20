@@ -1,16 +1,16 @@
 ---
-title: "Helps & Updates User Guide for Comfort Accounting"
+title: "Helps & Updates Guide for Comfort Accounting"
 description: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
 
 ogType: "article"
-ogTitle: "Helps & Updates User Guide for Comfort Accounting"
+ogTitle: "Helps & Updates Guide for Comfort Accounting"
 ogDescription: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/helps-updates"
 
 twitterCard: "article"
-twitterTitle: "Helps & Updates User Guide for Comfort Accounting"
+twitterTitle: "Helps & Updates Guide for Comfort Accounting"
 twitterDescription: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

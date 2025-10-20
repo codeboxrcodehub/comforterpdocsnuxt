@@ -1,16 +1,16 @@
 ---
-title: "General User Guide for Comfort Accounting"
+title: "General Guide for Comfort Accounting"
 description: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
 
 ogType: "article"
-ogTitle: "General User Guide for Comfort Accounting"
+ogTitle: "General Guide for Comfort Accounting"
 ogDescription: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/general"
 
 twitterCard: "article"
-twitterTitle: "General User Guide for Comfort Accounting"
+twitterTitle: "General Guide for Comfort Accounting"
 twitterDescription: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

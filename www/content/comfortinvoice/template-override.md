@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/template-override"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Template Override Guide for Comfort Invoice"
+description: "Learn how to override Comfort Invoice templates to create custom invoice designs and layouts. Complete guide for customizing PDF invoices, email templates, and invoice styling."
+
+ogType: "article"
+ogTitle: "Template Override Guide for Comfort Invoice"
+ogDescription: "Learn how to override Comfort Invoice templates to create custom invoice designs and layouts. Complete guide for customizing PDF invoices, email templates, and invoice styling."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/template-override"
+
+twitterCard: "article"
+twitterTitle: "Template Override Guide for Comfort Invoice"
+twitterDescription: "Learn how to override Comfort Invoice templates to create custom invoice designs and layouts. Complete guide for customizing PDF invoices, email templates, and invoice styling."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/template-override"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice template override, custom invoice templates, invoice design customization, override invoice layout, custom PDF templates, invoice styling, child theme templates, custom invoice fields, template hierarchy"
 ---
 # How to Override Template
 

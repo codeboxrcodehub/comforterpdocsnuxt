@@ -1,16 +1,16 @@
 ---
-title: "Category Manager User Guide for Comfort Accounting"
+title: "Category Manager Guide for Comfort Accounting"
 description: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
 
 ogType: "article"
-ogTitle: "Category Manager User Guide for Comfort Accounting"
+ogTitle: "Category Manager Guide for Comfort Accounting"
 ogDescription: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/category-manager"
 
 twitterCard: "article"
-twitterTitle: "Category Manager User Guide for Comfort Accounting"
+twitterTitle: "Category Manager Guide for Comfort Accounting"
 twitterDescription: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

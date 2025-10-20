@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Item Manager Guide for Comfort Invoice"
+description: "Learn how to use the Item Manager in Comfort Invoice to manage products, services, and invoice items. Create item catalogs, set pricing, configure taxes, and organize items for quick invoicing."
 
+ogType: "article"
+ogTitle: "Item Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Item Manager in Comfort Invoice to manage products, services, and invoice items. Create item catalogs, set pricing, configure taxes, and organize items for quick invoicing."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/item-manager"
+
+twitterCard: "article"
+twitterTitle: "Item Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Item Manager in Comfort Invoice to manage products, services, and invoice items. Create item catalogs, set pricing, configure taxes, and organize items for quick invoicing."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/item-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice item manager, product management, service items, invoice items, item database, product catalog, service catalog, item pricing, tax settings, item categories, inventory management"
 ---
 
 # Item Manager

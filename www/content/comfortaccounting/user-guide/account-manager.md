@@ -1,16 +1,16 @@
 ---
-title: "Account Manager User Guide for Comfort Accounting"
+title: "Account Manager Guide for Comfort Accounting"
 description: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
 
 ogType: "article"
-ogTitle: "Account Manager User Guide for Comfort Accounting"
+ogTitle: "Account Manager Guide for Comfort Accounting"
 ogDescription: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/account-manager"
 
 twitterCard: "article"
-twitterTitle: "Account Manager User Guide for Comfort Accounting"
+twitterTitle: "Account Manager Guide for Comfort Accounting"
 twitterDescription: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

@@ -1,16 +1,16 @@
 ---
-title: "Settings Manager User Guide for Comfort Accounting"
+title: "Settings Manager Guide for Comfort Accounting"
 description: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
 
 ogType: "article"
-ogTitle: "Settings Manager User Guide for Comfort Accounting"
+ogTitle: "Settings Manager Guide for Comfort Accounting"
 ogDescription: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/settings-manager"
 
 twitterCard: "article"
-twitterTitle: "Settings Manager User Guide for Comfort Accounting"
+twitterTitle: "Settings Manager Guide for Comfort Accounting"
 twitterDescription: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"

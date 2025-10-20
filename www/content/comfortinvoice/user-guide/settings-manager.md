@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Settings Manager Guide for Comfort Invoice"
+description: "Learn how to configure Comfort Invoice settings for optimal performance. Set up billing preferences, email notifications, payment options, and customize your invoice system to match your business needs."
 
+ogType: "article"
+ogTitle: "Settings Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to configure Comfort Invoice settings for optimal performance. Set up billing preferences, email notifications, payment options, and customize your invoice system to match your business needs."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/settings-manager"
+
+twitterCard: "article"
+twitterTitle: "Settings Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to configure Comfort Invoice settings for optimal performance. Set up billing preferences, email notifications, payment options, and customize your invoice system to match your business needs."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/settings-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice settings, invoice configuration, plugin settings, billing preferences, system configuration, invoice preferences, email settings, payment settings, customization options, general settings"
 ---
 
 # Settings Manager

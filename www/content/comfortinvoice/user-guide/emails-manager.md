@@ -1,13 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Emails Manager Guide for Comfort Invoice"
+description: "Learn how to use the Emails Manager in Comfort Invoice to set up automated email notifications, customize invoice email templates, and manage client communications for invoices and payment reminders."
 
+ogType: "article"
+ogTitle: "Emails Manager Guide for Comfort Invoice"
+ogDescription: "Learn how to use the Emails Manager in Comfort Invoice to set up automated email notifications, customize invoice email templates, and manage client communications for invoices and payment reminders."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/emails-manager"
+
+twitterCard: "article"
+twitterTitle: "Emails Manager Guide for Comfort Invoice"
+twitterDescription: "Learn how to use the Emails Manager in Comfort Invoice to set up automated email notifications, customize invoice email templates, and manage client communications for invoices and payment reminders."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/emails-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice email manager, invoice email templates, email notifications, automated emails, client notifications, payment reminders, invoice alerts, email customization, email settings, notification system"
 ---
 
 # Email Manager

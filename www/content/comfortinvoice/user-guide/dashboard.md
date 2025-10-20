@@ -1,12 +1,23 @@
 ---
-title: "Comfort Invoice Documentation"
-description: "Comfort Invoice index description."
-keywords: "Comfort Invoice index keywords."
-url: "/comfortinvoice/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Dashboard Guide for Comfort Invoice"
+description: "Master the Comfort Invoice dashboard with our comprehensive guide. Learn to navigate invoice overviews, track payments, and use dashboard widgets for efficient invoice management."
+
+ogType: "article"
+ogTitle: "Dashboard Guide for Comfort Invoice"
+ogDescription: "Master the Comfort Invoice dashboard with our comprehensive guide. Learn to navigate invoice overviews, track payments, and use dashboard widgets for efficient invoice management."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/dashboard"
+
+twitterCard: "article"
+twitterTitle: "Dashboard Guide for Comfort Invoice"
+twitterDescription: "Master the Comfort Invoice dashboard with our comprehensive guide. Learn to navigate invoice overviews, track payments, and use dashboard widgets for efficient invoice management."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-inventory-and-invoice-complete-invoice-plugin-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortinvoice/user-guide/dashboard"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Invoice dashboard, invoice dashboard guide, invoice overview, financial dashboard, invoice statistics, payment tracking, dashboard widgets, invoice metrics, quick actions, invoice management"
 ---
 
 # Dashboard

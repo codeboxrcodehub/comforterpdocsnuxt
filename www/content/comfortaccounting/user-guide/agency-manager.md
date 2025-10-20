@@ -1,16 +1,16 @@
 ---
-title: "Agency Manager User Guide for Comfort Accounting"
+title: "Agency Manager Guide for Comfort Accounting"
 description: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
 
 ogType: "article"
-ogTitle: "Agency Manager User Guide for Comfort Accounting"
+ogTitle: "Agency Manager Guide for Comfort Accounting"
 ogDescription: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
 ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/agency-manager"
 
 twitterCard: "article"
-twitterTitle: "Agency Manager User Guide for Comfort Accounting"
+twitterTitle: "Agency Manager Guide for Comfort Accounting"
 twitterDescription: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
 twitterSite: "@ComfortERP"
 twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
