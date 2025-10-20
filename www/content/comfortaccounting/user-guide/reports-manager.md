@@ -1,12 +1,23 @@
 ---
-title: "Reports Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Reports Manager User Guide for Comfort Accounting"
+description: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
+
+ogType: "article"
+ogTitle: "Reports Manager User Guide for Comfort Accounting"
+ogDescription: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/reports-manager"
+
+twitterCard: "article"
+twitterTitle: "Reports Manager User Guide for Comfort Accounting"
+twitterDescription: "Access advanced reporting features with Comfort Accounting Pro. Generate custom financial reports, analytics, and business intelligence dashboards for comprehensive financial insights."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/reports-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Pro reports, advanced financial reports, custom reports, report generator, financial analytics, business intelligence, profit loss reports, balance sheets, cash flow reports, advanced reporting features"
 ---
 
 # Reports Manager

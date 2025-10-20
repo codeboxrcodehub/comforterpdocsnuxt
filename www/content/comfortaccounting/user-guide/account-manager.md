@@ -1,12 +1,23 @@
 ---
-title: "Account Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Account Manager User Guide for Comfort Accounting"
+description: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
+
+ogType: "article"
+ogTitle: "Account Manager User Guide for Comfort Accounting"
+ogDescription: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/account-manager"
+
+twitterCard: "article"
+twitterTitle: "Account Manager User Guide for Comfort Accounting"
+twitterDescription: "Complete guide to using the Account Manager in Comfort Accounting. Learn how to set up and manage your chart of accounts, account categories, and financial account structure."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/account-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Account Manager, chart of accounts, account management, financial accounts, account setup, account categories, account types, general ledger accounts, accounting structure, account hierarchy"
 ---
 
 # Account Manager

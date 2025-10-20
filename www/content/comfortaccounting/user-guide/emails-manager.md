@@ -1,12 +1,23 @@
 ---
-title: "Email Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Emails Manager User Guide for Comfort Accounting"
+description: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
+
+ogType: "article"
+ogTitle: "Emails Manager User Guide for Comfort Accounting"
+ogDescription: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/emails-manager"
+
+twitterCard: "article"
+twitterTitle: "Emails Manager User Guide for Comfort Accounting"
+twitterDescription: "Learn how to use the Emails Manager in Comfort Accounting to set up automated email notifications, customize email templates, and manage client communications for invoices and financial alerts."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/emails-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting email manager, email templates, automated emails, invoice emails, notification settings, email customization, financial notifications, client communications, email automation, accounting alerts"
 ---
 
 # Email Manager

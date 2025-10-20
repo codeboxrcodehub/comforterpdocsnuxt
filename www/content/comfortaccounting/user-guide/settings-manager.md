@@ -1,12 +1,23 @@
 ---
-title: "Settings Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Settings Manager User Guide for Comfort Accounting"
+description: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
+
+ogType: "article"
+ogTitle: "Settings Manager User Guide for Comfort Accounting"
+ogDescription: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/settings-manager"
+
+twitterCard: "article"
+twitterTitle: "Settings Manager User Guide for Comfort Accounting"
+twitterDescription: "Complete guide to the Settings Manager in Comfort Accounting. Learn how to configure accounting preferences, system settings, and customize your ERP accounting module to match your business needs."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/settings-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting settings, configuration options, plugin settings, accounting preferences, system configuration, general settings, financial settings, user preferences, setup configuration, customization options"
 ---
 
 # Settings Manager

@@ -1,12 +1,23 @@
 ---
-title: "Tools Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Tools Manager User Guide for Comfort Accounting"
+description: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
+
+ogType: "article"
+ogTitle: "Tools Manager User Guide for Comfort Accounting"
+ogDescription: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/tools-manager"
+
+twitterCard: "article"
+twitterTitle: "Tools Manager User Guide for Comfort Accounting"
+twitterDescription: "Learn how to use the Tools Manager in Comfort Accounting for data management, import/export operations, system maintenance, and various accounting utilities to optimize your financial workflows."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/tools-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting tools, accounting utilities, data management tools, import export tools, system tools, data backup, data recovery, maintenance tools, batch processing, accounting utilities"
 ---
 
 # Tools Manager

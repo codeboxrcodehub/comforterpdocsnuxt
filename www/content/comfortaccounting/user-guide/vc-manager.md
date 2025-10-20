@@ -1,12 +1,23 @@
 ---
-title: "Vendor Client Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Vendor Client Manager User Guide for Comfort Accounting"
+description: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
+
+ogType: "article"
+ogTitle: "Vendor Client Manager User Guide for Comfort Accounting"
+ogDescription: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/vc-manager"
+
+twitterCard: "article"
+twitterTitle: "Vendor Client Manager User Guide for Comfort Accounting"
+twitterDescription: "Complete guide to using the Vendor Client Manager in Comfort Accounting. Learn how to manage vendors, clients, suppliers, and customer accounts with contact details and financial tracking."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/vc-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Vendor Client Manager, vendor management, client management, supplier management, customer accounts, vendor client setup, contact management, vendor payments, client invoices, supplier client database"
 ---
 
 # Vendor Client Manager

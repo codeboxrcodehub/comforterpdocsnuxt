@@ -1,12 +1,23 @@
 ---
-title: "Agency Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Agency Manager User Guide for Comfort Accounting"
+description: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
+
+ogType: "article"
+ogTitle: "Agency Manager User Guide for Comfort Accounting"
+ogDescription: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/agency-manager"
+
+twitterCard: "article"
+twitterTitle: "Agency Manager User Guide for Comfort Accounting"
+twitterDescription: "Learn how to use the Agency Manager in Comfort Accounting. Complete guide for managing multiple agencies, client accounts, and financial data across different agency entities."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/agency-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Agency Manager, agency management, client accounting, multi-agency setup, agency dashboard, agency financials, client management, agency reports, multi-tenant accounting, agency settings"
 ---
 
 # Agency Manager

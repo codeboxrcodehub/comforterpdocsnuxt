@@ -1,12 +1,23 @@
 ---
-title: "Helps & Updates"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Helps & Updates User Guide for Comfort Accounting"
+description: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
+
+ogType: "article"
+ogTitle: "Helps & Updates User Guide for Comfort Accounting"
+ogDescription: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/helps-updates"
+
+twitterCard: "article"
+twitterTitle: "Helps & Updates User Guide for Comfort Accounting"
+twitterDescription: "Access help resources and update guides for Comfort Accounting. Find troubleshooting tips, FAQs, version update instructions, and support documentation for your ERP accounting module."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/helps-updates"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting help, plugin updates, version updates, documentation, support guide, troubleshooting, FAQ, help system, update instructions, plugin maintenance, new features"
 ---
 
 # Helps & Updates

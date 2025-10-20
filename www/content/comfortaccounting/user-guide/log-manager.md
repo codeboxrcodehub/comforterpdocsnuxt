@@ -1,12 +1,23 @@
 ---
-title: "Log Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Log Manager User Guide for Comfort Accounting"
+description: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
+
+ogType: "article"
+ogTitle: "Log Manager User Guide for Comfort Accounting"
+ogDescription: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/log-manager"
+
+twitterCard: "article"
+twitterTitle: "Log Manager User Guide for Comfort Accounting"
+twitterDescription: "Learn how to use the Log Manager in Comfort Accounting to track user activities, monitor transaction changes, and maintain complete audit trails for financial compliance and security."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/log-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Log Manager, activity logs, audit trail, transaction logs, system logs, user activity tracking, audit reports, financial audit, change history, log monitoring"
 ---
 
 # Log Manager

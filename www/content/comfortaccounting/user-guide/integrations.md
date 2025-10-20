@@ -1,12 +1,23 @@
 ---
-title: "Integrations"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Integrations User Guide for Comfort Accounting"
+description: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
+
+ogType: "article"
+ogTitle: "Integrations User Guide for Comfort Accounting"
+ogDescription: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/integrations"
+
+twitterCard: "article"
+twitterTitle: "Integrations User Guide for Comfort Accounting"
+twitterDescription: "Learn how to integrate Comfort Accounting with WooCommerce and Comfort Invoice. Automate sales data sync, order tracking, and invoice generation for seamless ecommerce accounting workflows."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/integrations"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting integrations, WooCommerce integration, Comfort Invoice integration, ecommerce accounting, sales data sync, order management, invoice automation, payment tracking, WooCommerce reports, automated bookkeeping"
 ---
 
 # Comfort Accounting Integrations Addon (Pro)

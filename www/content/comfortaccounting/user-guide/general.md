@@ -1,13 +1,23 @@
 ---
-title: "General"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "General User Guide for Comfort Accounting"
+description: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
 
+ogType: "article"
+ogTitle: "General User Guide for Comfort Accounting"
+ogDescription: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/general"
+
+twitterCard: "article"
+twitterTitle: "General User Guide for Comfort Accounting"
+twitterDescription: "Get started with Comfort Accounting general user guide. Learn basic navigation, dashboard features, and essential functions for managing your accounting in Comfort ERP system."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/general"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting user guide, general guide, getting started, basic features, user manual, ERP accounting guide, how to use, navigation guide, dashboard overview, basic setup"
 ---
 
 # Comfort Accounting User Guide

@@ -1,12 +1,23 @@
 ---
-title: "Dashboard"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Dashboard User Guide for Comfort Accounting"
+description: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
+
+ogType: "article"
+ogTitle: "Dashboard User Guide for Comfort Accounting"
+ogDescription: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/dashboard"
+
+twitterCard: "article"
+twitterTitle: "Dashboard User Guide for Comfort Accounting"
+twitterDescription: "Master the Comfort Accounting dashboard with our comprehensive guide. Learn to navigate financial overviews, use quick actions, and customize your accounting dashboard in Comfort ERP."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting/user-guide/dashboard"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting dashboard, accounting dashboard guide, financial dashboard, ERP dashboard, dashboard overview, financial overview, quick actions, accounting metrics, dashboard widgets, financial reports"
 ---
 
 # Dashboard

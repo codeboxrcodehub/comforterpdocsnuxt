@@ -1,12 +1,23 @@
 ---
-title: "Category Manager"
-description: "Documentation for Comfort Accounting for WordPress"
-keywords: "comfort accounting, wordpress, accounting"
-url: "/comfortaccounting/"
-type: "type"
-site_name: "Comfort ERP"
-image: /seo_card.png
-card: "article"
+title: "Category Manager User Guide for Comfort Accounting"
+description: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
+
+ogType: "article"
+ogTitle: "Category Manager User Guide for Comfort Accounting"
+ogDescription: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
+ogSiteName: "Comfort ERP Documentation"
+ogImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+ogUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/category-manager"
+
+twitterCard: "article"
+twitterTitle: "Category Manager User Guide for Comfort Accounting"
+twitterDescription: "Learn how to use the Category Manager in Comfort Accounting to organize transactions, set up expense and income categories, and manage your financial categorization system."
+twitterSite: "@ComfortERP"
+twitterImage: "/comfort-accounting-accounting-solution-for-wordpress.webp"
+twitterUrl: "https://docs.comforterp.com/comfortaccounting//user-guide/category-manager"
+
+fbAppId: "1249182889483061"
+keywords: "Comfort Accounting Category Manager, transaction categories, expense categories, income categories, account categories, category setup, financial categorization, transaction organization, chart of accounts, category hierarchy"
 ---
 
 # Category Manager
