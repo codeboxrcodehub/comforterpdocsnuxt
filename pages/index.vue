@@ -17,7 +17,7 @@ const config = useConfig();
 const appConfig = useAppConfig();
 
 useSeoMeta({
-  title: page.value?.title,
+  title: `${page.value?.title} | ${config.value.site.name}`,
   description: page.value?.description,
 
   ogType: page.value?.ogType,
@@ -34,7 +34,6 @@ useSeoMeta({
   twitterSite: page.value?.twitterSite,
 });
 
-// For Facebook App ID
 useHead({
   meta: [
     { property: 'fb:app_id', content: page.value?.fbAppId },

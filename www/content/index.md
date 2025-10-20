@@ -1,23 +1,23 @@
 ---
-title: "Documentation for Comfort ERP Plugins for WordPress"
-description: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+title: "Comfort Accounting for WordPress – Complete Documentation & Setup Guide"
+description: "Comfort Accounting provides stress-free, personalized bookkeeping and financial management services for small businesses. Ditch the accounting anxiety and get clear, friendly guidance for your finances."
 
 ogType: "website"
-ogTitle: "Comfort ERP Documentation for WordPress"
-ogDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+ogTitle: "Comfort Accounting for WordPress – Complete Documentation & Setup Guide"
+ogDescription: "Comfort Accounting provides stress-free, personalized bookkeeping and financial management services for small businesses. Ditch the accounting anxiety and get clear, friendly guidance for your finances."
 ogSiteName: "Comfort ERP Documentation"
 ogImage: "/seo.png"
 ogUrl: "https://docs.comforterp.com"
 
 twitterCard: "website"
-twitterTitle: "Comfort ERP Documentation for WordPress"
-twitterDescription: "Comfort ERP Documentation for WordPress. Accounting, Inventory & Invoice and much more modules of erp."
+twitterTitle: "Comfort Accounting for WordPress – Complete Documentation & Setup Guide"
+twitterDescription: "Comfort Accounting provides stress-free, personalized bookkeeping and financial management services for small businesses. Ditch the accounting anxiety and get clear, friendly guidance for your finances."
 twitterSite: "@ComfortERP"
 twitterImage: "/seo.png"
 twitterUrl: "https://docs.comforterp.com"
 
 fbAppId: "1249182889483061"
-keywords: "Comfort ERP Documentation, Comfort Accounting Documentation, Comfort Inventory & Invoice Documentation, WordPress ERP, ERP solution"
+keywords: "comfort accounting, wordpress accounting plugin, accounting for wordpress, comfort erp, wordpress finance plugin, bookkeeping plugin, accounting reports, comfort accounting documentation, wp accounting setup"
 ---
 
 ::hero-alt-custom
